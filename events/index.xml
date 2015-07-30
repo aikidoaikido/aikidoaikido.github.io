@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/events/</link>
+    <link>/events/</link>
     <description>Recent content in Events on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 29 Aug 2015 09:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/events/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/events/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Clase de Danes de Agosto</title>
-      <link>http://www.aikidoaikido.com.ar/events/20150801_clase_danes/</link>
+      <link>/events/20150801_clase_danes/</link>
       <pubDate>Sat, 01 Aug 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/events/20150801_clase_danes/</guid>
+      <guid>/events/20150801_clase_danes/</guid>
       <description>
 
 &lt;p&gt;El sábado 1 de Agosto se llevará a cabo la Clase de Danes del mes, con la
@@ -25,7 +25,7 @@ Sensei 6º Dan.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/hakama.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/events/hakama.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -39,10 +39,10 @@ Sensei 6º Dan.&lt;/p&gt;
     
     <item>
       <title>Clase Especial y Exámenes</title>
-      <link>http://www.aikidoaikido.com.ar/events/20150808_clase_especial/</link>
+      <link>/events/20150808_clase_especial/</link>
       <pubDate>Sat, 08 Aug 2015 14:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/events/20150808_clase_especial/</guid>
+      <guid>/events/20150808_clase_especial/</guid>
       <description>
 
 &lt;p&gt;El día 8 de Agosto del corriente se realizará la Clase Especial y exámenes, la
@@ -52,7 +52,7 @@ Villa Allende.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/clase_especial_20150808.png&#34; /&gt;
+        &lt;img src=&#34;/images/events/clase_especial_20150808.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -66,10 +66,10 @@ Villa Allende.&lt;/p&gt;
     
     <item>
       <title>Seminario Internacional - Sensei Philip Berrios</title>
-      <link>http://www.aikidoaikido.com.ar/events/20150829_seminario_internacional/</link>
+      <link>/events/20150829_seminario_internacional/</link>
       <pubDate>Sat, 29 Aug 2015 09:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/events/20150829_seminario_internacional/</guid>
+      <guid>/events/20150829_seminario_internacional/</guid>
       <description>&lt;p&gt;Los días 29 y 30 de Agosto se llevará a cabo el Seminario Internacional dictado
 por Philip Berrios Sensei. El mismo se dictará durante todo el sábado y hasta
 el medio día del domingo, recordamos a los participantes que la inscripción al
@@ -79,7 +79,7 @@ eventos.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150829.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/events/poster_seminario_20150829.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;

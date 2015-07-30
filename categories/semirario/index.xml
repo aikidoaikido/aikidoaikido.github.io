@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Semirario on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/categories/semirario/</link>
+    <link>/categories/semirario/</link>
     <description>Recent content in Semirario on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 27 Sep 2014 16:40:39 +0000</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/categories/semirario/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/categories/semirario/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Seminario conmemoración 30 años de Aikido en Córdoba</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140927-seminario/</link>
+      <link>/pastevents/2014/20140927-seminario/</link>
       <pubDate>Sat, 27 Sep 2014 16:40:39 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140927-seminario/</guid>
+      <guid>/pastevents/2014/20140927-seminario/</guid>
       <description>
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20140927.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/events/poster_seminario_20140927.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;

@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>News on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/news/</link>
+    <link>/news/</link>
     <description>Recent content in News on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 04 Jul 2015 12:38:20 -0300</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/news/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="/news/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Visitando el Hombu Dojo</title>
-      <link>http://www.aikidoaikido.com.ar/news/20150704-Visitando-el-Hombu-Dojo/</link>
+      <link>/news/20150704-Visitando-el-Hombu-Dojo/</link>
       <pubDate>Sat, 04 Jul 2015 12:38:20 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20150704-Visitando-el-Hombu-Dojo/</guid>
+      <guid>/news/20150704-Visitando-el-Hombu-Dojo/</guid>
       <description>&lt;p&gt;El practicante de Aikido perteneciente a la Asociación, Gustavo Saldaña, ha
 aterrizado en Japón y fue a tomar clases con los grandes Maestros de Hombu Dojo
 incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
@@ -22,7 +22,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/people/Gustavo%20Guillermo%20Salda%c3%b1a.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/people/Gustavo%20Guillermo%20Salda%c3%b1a.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -32,10 +32,10 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
     
     <item>
       <title>Entrevista en Mundo D</title>
-      <link>http://www.aikidoaikido.com.ar/news/201506-Entrevista-en-Mundo-D/</link>
+      <link>/news/201506-Entrevista-en-Mundo-D/</link>
       <pubDate>Fri, 19 Jun 2015 11:54:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/201506-Entrevista-en-Mundo-D/</guid>
+      <guid>/news/201506-Entrevista-en-Mundo-D/</guid>
       <description>&lt;p&gt;Mundo D ha entrevistado al Sensei Raúl Medina y María Eugenia Cataldo.&lt;/p&gt;
 
 &lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/AfE4LiT05sU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -43,7 +43,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/1.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/1.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -51,7 +51,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/2.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/2.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -59,7 +59,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/3.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/3.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -67,7 +67,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/4.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/4.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -75,7 +75,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/5.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/5.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -83,7 +83,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/6.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/6.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -91,7 +91,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/7.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/7.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -99,7 +99,7 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
 
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/8.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/news/201506-mundod/8.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -109,14 +109,14 @@ incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
     
     <item>
       <title>Seminario y exámenes de Kyu</title>
-      <link>http://www.aikidoaikido.com.ar/news/201506-Seminario-y-examenes-de-Kyu/</link>
+      <link>/news/201506-Seminario-y-examenes-de-Kyu/</link>
       <pubDate>Mon, 15 Jun 2015 05:51:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/201506-Seminario-y-examenes-de-Kyu/</guid>
+      <guid>/news/201506-Seminario-y-examenes-de-Kyu/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/201506_seminario_y_examenes/foto_grupal.jpg&#34; alt=&#34;Foto grupal&#34; /&gt;
+        &lt;img src=&#34;/images/events/201506_seminario_y_examenes/foto_grupal.jpg&#34; alt=&#34;Foto grupal&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -139,7 +139,7 @@ Medina Franck 6to. Dan, Juan J Trakal 4to. Dan y José Delgado 3er, Dan&lt;/p&gt
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/201506_seminario_y_examenes/foto_examinados.jpg&#34; alt=&#34;Practicantes que presentaron examen&#34; /&gt;
+        &lt;img src=&#34;/images/events/201506_seminario_y_examenes/foto_examinados.jpg&#34; alt=&#34;Practicantes que presentaron examen&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -190,14 +190,14 @@ Medina Franck 6to. Dan, Juan J Trakal 4to. Dan y José Delgado 3er, Dan&lt;/p&gt
     
     <item>
       <title>Despedimos a Chiba Shihan</title>
-      <link>http://www.aikidoaikido.com.ar/news/20150606-Despedimos-a-Chiba-Shihan/</link>
+      <link>/news/20150606-Despedimos-a-Chiba-Shihan/</link>
       <pubDate>Sat, 06 Jun 2015 14:23:23 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20150606-Despedimos-a-Chiba-Shihan/</guid>
+      <guid>/news/20150606-Despedimos-a-Chiba-Shihan/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/people/Kazuo_Chiba.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/people/Kazuo_Chiba.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -214,7 +214,7 @@ Director General de San Diego Aikikai. Lo despedimos Shihan!.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/Kazuo_Chiba_O_Sensei.jpg&#34; /&gt;
+        &lt;img src=&#34;/images/Kazuo_Chiba_O_Sensei.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
