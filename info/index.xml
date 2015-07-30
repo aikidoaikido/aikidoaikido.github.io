@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infos on Asociación Cordobesa de Aikido</title>
-    <link>/info/</link>
+    <link>http://www.aikidoaikido.com.ar/info/</link>
     <description>Recent content in Infos on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <atom:link href="/info/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aikidoaikido.com.ar/info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Diccionario Técnico</title>
-      <link>/info/glossary/</link>
+      <link>http://www.aikidoaikido.com.ar/info/glossary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/info/glossary/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/glossary/</guid>
       <description>&lt;p&gt;&lt;strong&gt;agatsu&lt;/strong&gt;: victoria sobre sí mismo.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ai hanmi&lt;/strong&gt;: posición de UKE y NAGE, mismo pie adelantado.&lt;/p&gt;
@@ -601,10 +601,10 @@ Para el aikidoka en postura natural, pasa entre los dos pies, en el centro de la
     
     <item>
       <title>El Hakama</title>
-      <link>/info/hakama/</link>
+      <link>http://www.aikidoaikido.com.ar/info/hakama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/info/hakama/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/hakama/</guid>
       <description>
 
 &lt;p&gt;El &lt;strong&gt;HAKAMA&lt;/strong&gt; es una prenda de vestir de origen japonés, parecida a una pollera pantalón plisada. Antiguamente era usada por los jinetes en Japón como una protección de las piernas ante las malezas en el trabajo rural y también fue usada por los samuráis. Es el equivalente a nuestro guardamonte de cuero que usaban y usan nuestros gauchos en sus cabalgaduras cuando tienen que ingresar a un monte cerrado. Los nuestros son de cuero pero en Japón en esa época resultaba difícil conseguir este material por lo que lo hacían de una tela gruesa.&lt;/p&gt;
@@ -684,10 +684,10 @@ Durante todo el proceso debe mantenerse una actitud meditativa sobre el signific
     
     <item>
       <title>Etiqueta en el Dojo</title>
-      <link>/info/dojo_etiquette/</link>
+      <link>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/info/dojo_etiquette/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -747,10 +747,10 @@ Durante todo el proceso debe mantenerse una actitud meditativa sobre el signific
     
     <item>
       <title>Nuestro Logo</title>
-      <link>/info/logo/</link>
+      <link>http://www.aikidoaikido.com.ar/info/logo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/info/logo/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/logo/</guid>
       <description>&lt;p&gt;En palabras de O&amp;rsquo;Sensei:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -760,7 +760,7 @@ Durante todo el proceso debe mantenerse una actitud meditativa sobre el signific
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://aikidoaikido.com.ar/images/photos/logo.jpg&#34; /&gt;
+        &lt;img src=&#34;images/photos/logo.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -772,10 +772,10 @@ Durante todo el proceso debe mantenerse una actitud meditativa sobre el signific
     
     <item>
       <title>Origen del Jo</title>
-      <link>/info/jo/</link>
+      <link>http://www.aikidoaikido.com.ar/info/jo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/info/jo/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/jo/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -801,10 +801,10 @@ Durante todo el proceso debe mantenerse una actitud meditativa sobre el signific
     
     <item>
       <title>Requerimientos de Examen</title>
-      <link>/info/exams/</link>
+      <link>http://www.aikidoaikido.com.ar/info/exams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/info/exams/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/exams/</guid>
       <description>
 
 &lt;p&gt;Estamos actualizando y dando formato a la información sobre los requerimientos de exámen, para cada grado. Agregaremos dicha información crucial a la brevedad.&lt;/p&gt;
