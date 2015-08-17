@@ -2,472 +2,403 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/</loc>
-    <lastmod>2015-08-29T09:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2015-09-12T13:16:00-03:00</lastmod>
     <priority>0</priority>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/20150829_seminario_internacional/</loc>
+    <loc>http://localhost:1313/events/20150912-Clase-de-Defensa-Personal-para-Mujeres/</loc>
+    <lastmod>2015-09-12T13:16:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/events/20150829_seminario_internacional/</loc>
     <lastmod>2015-08-29T09:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/20150808_clase_especial/</loc>
+    <loc>http://localhost:1313/events/20150821-Seminario-de-Aikido/</loc>
+    <lastmod>2015-08-21T20:00:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://localhost:1313/pastevents/2015/20150808_clase_especial/</loc>
     <lastmod>2015-08-08T14:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/20150801_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150801_clase_danes/</loc>
     <lastmod>2015-08-01T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150711-Seminario-15-A%C3%B1os-de-Aikido-en-R%C3%ADo-Cuarto/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150711-Seminario-15-A%C3%B1os-de-Aikido-en-R%C3%ADo-Cuarto/</loc>
     <lastmod>2015-07-11T09:49:32-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150704_clase_de_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150704_clase_de_danes/</loc>
     <lastmod>2015-07-04T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/news/20150704-Visitando-el-Hombu-Dojo/</loc>
+    <loc>http://localhost:1313/news/20150704-Visitando-el-Hombu-Dojo/</loc>
     <lastmod>2015-07-04T12:38:20-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150627_seminario_mendoza/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150627_seminario_mendoza/</loc>
     <lastmod>2015-06-27T08:30:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/news/201506-Entrevista-en-Mundo-D/</loc>
+    <loc>http://localhost:1313/news/201506-Entrevista-en-Mundo-D/</loc>
     <lastmod>2015-06-19T11:54:27-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/news/201506-Seminario-y-examenes-de-Kyu/</loc>
+    <loc>http://localhost:1313/news/201506-Seminario-y-examenes-de-Kyu/</loc>
     <lastmod>2015-06-15T05:51:27-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150613-seminario_examen_kyus/</loc>
     <lastmod>2015-06-13T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/news/20150606-Despedimos-a-Chiba-Shihan/</loc>
+    <loc>http://localhost:1313/news/20150606-Despedimos-a-Chiba-Shihan/</loc>
     <lastmod>2015-06-06T14:23:23-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150606_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150606_clase_danes/</loc>
     <lastmod>2015-06-06T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150411_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150411_clase_danes/</loc>
     <lastmod>2015-04-11T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150328-seminario_examen_kyus/</loc>
     <lastmod>2015-03-28T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150313_seminario_internacional_en_las_termas/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150313_seminario_internacional_en_las_termas/</loc>
     <lastmod>2015-03-13T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150307_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150307_clase_danes/</loc>
     <lastmod>2015-03-07T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</loc>
     <lastmod>2015-02-28T18:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150207_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150207_clase_danes/</loc>
     <lastmod>2015-02-07T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150120_federaciones_en_mundo_d/</loc>
+    <loc>http://localhost:1313/pastevents/2015/20150120_federaciones_en_mundo_d/</loc>
     <lastmod>2015-01-20T18:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_clase_especial/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141213_clase_especial/</loc>
     <lastmod>2014-12-13T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_seminario_fin_de_ano/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141213_seminario_fin_de_ano/</loc>
     <lastmod>2014-12-13T09:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141206_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141206_clase_danes/</loc>
     <lastmod>2014-12-06T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141129-seminario%20examen%20kyus/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141129-seminario%20examen%20kyus/</loc>
     <lastmod>2014-11-29T16:40:39+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141123_clase_especial/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141123_clase_especial/</loc>
     <lastmod>2014-11-23T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141115_clase_especial_bsas/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141115_clase_especial_bsas/</loc>
     <lastmod>2014-11-15T14:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141108_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141108_clase_danes/</loc>
     <lastmod>2014-11-08T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/history/Medina%20Franck%20Sensei/</loc>
+    <loc>http://localhost:1313/history/Medina%20Franck%20Sensei/</loc>
     <lastmod>2014-11-07T09:20:15-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/history/Yoshimitsu%20Yamada%20Shihan/</loc>
+    <loc>http://localhost:1313/history/Yoshimitsu%20Yamada%20Shihan/</loc>
     <lastmod>2014-11-07T09:16:20-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/history/Ueshiba%20Moriteru%20Doshu/</loc>
+    <loc>http://localhost:1313/history/Ueshiba%20Moriteru%20Doshu/</loc>
     <lastmod>2014-11-07T09:12:35-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/history/Ueshiba%20Kisshomaru%20Doshu/</loc>
+    <loc>http://localhost:1313/history/Ueshiba%20Kisshomaru%20Doshu/</loc>
     <lastmod>2014-11-07T09:05:16-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/history/Ueshiba%20Morihei/</loc>
+    <loc>http://localhost:1313/history/Ueshiba%20Morihei/</loc>
     <lastmod>2014-11-06T19:39:02-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/ninos/</loc>
+    <loc>http://localhost:1313/ninos/</loc>
     <lastmod>2014-11-06T18:44:40-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141025-claseEspecialEnCatamarca/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141025-claseEspecialEnCatamarca/</loc>
     <lastmod>2014-10-25T10:00:39+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141021_nota_radio/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141021_nota_radio/</loc>
     <lastmod>2014-10-18T10:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141011_seminario/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141011_seminario/</loc>
     <lastmod>2014-10-11T10:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141004_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20141004_clase_danes/</loc>
     <lastmod>2014-10-04T16:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140927-seminario/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140927-seminario/</loc>
     <lastmod>2014-09-27T16:40:39+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140925-reconocimiento/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140925-reconocimiento/</loc>
     <lastmod>2014-09-25T11:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/danes/</loc>
+    <loc>http://localhost:1313/danes/</loc>
     <lastmod>2014-09-07T20:00:15-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20III/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20III/</loc>
     <lastmod>2014-09-07T19:55:40-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Neko%20Dojo/</loc>
+    <loc>http://localhost:1313/dojos/Neko%20Dojo/</loc>
     <lastmod>2014-09-07T19:46:46-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Accenture%20Dojo/</loc>
+    <loc>http://localhost:1313/dojos/Accenture%20Dojo/</loc>
     <lastmod>2014-09-07T19:44:13-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Toku-iku%20Dojo/</loc>
+    <loc>http://localhost:1313/dojos/Toku-iku%20Dojo/</loc>
     <lastmod>2014-09-07T19:41:12-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Asociacion%20Catamarquena%20de%20Karate/</loc>
+    <loc>http://localhost:1313/dojos/Asociacion%20Catamarquena%20de%20Karate/</loc>
     <lastmod>2014-09-07T19:37:55-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20II/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20II/</loc>
     <lastmod>2014-09-07T18:55:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Toay/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Toay/</loc>
     <lastmod>2014-09-07T18:55:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Gimnasio%20X-Training/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Gimnasio%20X-Training/</loc>
     <lastmod>2014-09-07T18:49:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Gimnasio%20Municipal%20N%203/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Gimnasio%20Municipal%20N%203/</loc>
     <lastmod>2014-09-07T18:48:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20I/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20I/</loc>
     <lastmod>2014-09-07T18:48:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20San%20Luis%20Shopping%20Center/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20San%20Luis%20Shopping%20Center/</loc>
     <lastmod>2014-09-07T18:48:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Union%20Vecinal%20Valle%20del%20Sol/</loc>
+    <loc>http://localhost:1313/dojos/Marubashi%20Dojo%20-%20Union%20Vecinal%20Valle%20del%20Sol/</loc>
     <lastmod>2014-09-07T18:48:08-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marushabi/</loc>
+    <loc>http://localhost:1313/dojos/Marushabi/</loc>
     <lastmod>2014-09-07T18:36:49-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Centro%20de%20Cultura%20y%20Tradiciones%20Japonesas/</loc>
+    <loc>http://localhost:1313/dojos/Centro%20de%20Cultura%20y%20Tradiciones%20Japonesas/</loc>
     <lastmod>2014-09-07T18:24:12-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Club%20Tiro%20y%20Gimnasia/</loc>
+    <loc>http://localhost:1313/dojos/Club%20Tiro%20y%20Gimnasia/</loc>
     <lastmod>2014-09-07T18:15:03-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/ikiru/</loc>
+    <loc>http://localhost:1313/dojos/ikiru/</loc>
     <lastmod>2014-09-07T18:13:01-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/kokoro/</loc>
+    <loc>http://localhost:1313/dojos/kokoro/</loc>
     <lastmod>2014-09-07T17:47:45-03:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/kazoku/</loc>
+    <loc>http://localhost:1313/dojos/kazoku/</loc>
     <lastmod>2014-09-07T19:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/kogarashi/</loc>
+    <loc>http://localhost:1313/dojos/kogarashi/</loc>
     <lastmod>2014-09-07T18:45:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/horarios/</loc>
+    <loc>http://localhost:1313/dojos/horarios/</loc>
     <lastmod>2014-09-07T18:39:47+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/contact/</loc>
+    <loc>http://localhost:1313/about/</loc>
     <lastmod>2014-09-07T13:18:04+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/about/</loc>
+    <loc>http://localhost:1313/contact/</loc>
     <lastmod>2014-09-07T13:18:04+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140906_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140906_clase_danes/</loc>
     <lastmod>2014-09-06T18:18:17+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140607_clase_danes/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140607_clase_danes/</loc>
     <lastmod>2014-06-07T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140531_seminario_en_catamarca/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140531_seminario_en_catamarca/</loc>
     <lastmod>2014-05-31T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140524_seminario_internacional_Philip_Berrios/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140524_seminario_internacional_Philip_Berrios/</loc>
     <lastmod>2014-05-24T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140503_clase_danes_mayo/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140503_clase_danes_mayo/</loc>
     <lastmod>2014-05-03T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140405_clase_danes_abril/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140405_clase_danes_abril/</loc>
     <lastmod>2014-04-05T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140322_seminario_de_sumi-e/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140322_seminario_de_sumi-e/</loc>
     <lastmod>2014-03-22T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140301_clase_danes_marzo/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140301_clase_danes_marzo/</loc>
     <lastmod>2014-03-01T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140221_seminario_campamento-tanti/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140201_clase_danes_febrero/</loc>
     <lastmod>2014-02-21T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20140201_clase_danes_febrero/</loc>
+    <loc>http://localhost:1313/pastevents/2014/20140221_seminario_campamento-tanti/</loc>
     <lastmod>2014-02-21T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2013/20130101_eventos/</loc>
+    <loc>http://localhost:1313/pastevents/2013/20130101_eventos/</loc>
     <lastmod>2013-01-01T17:00:00+00:00</lastmod>
-    
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</loc>
-    
+    <loc>http://localhost:1313/info/dojo_etiquette/</loc>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/exams/</loc>
-    
+    <loc>http://localhost:1313/info/exams/</loc>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/jo/</loc>
-    
+    <loc>http://localhost:1313/info/hakama/</loc>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
-    
+    <loc>http://localhost:1313/info/jo/</loc>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/hakama/</loc>
-    
+    <loc>http://localhost:1313/info/logo/</loc>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
-    
+    <loc>http://localhost:1313/info/glossary/</loc>
   </url>
   
 </urlset>

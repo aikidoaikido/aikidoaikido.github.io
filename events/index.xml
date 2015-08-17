@@ -2,74 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/events/</link>
+    <link>http://localhost:1313/events/</link>
     <description>Recent content in Events on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 29 Aug 2015 09:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/events/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 12 Sep 2015 13:16:00 -0300</lastBuildDate>
+    <atom:link href="http://localhost:1313/events/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Clase de Danes de Agosto</title>
-      <link>http://www.aikidoaikido.com.ar/events/20150801_clase_danes/</link>
-      <pubDate>Sat, 01 Aug 2015 16:00:00 +0000</pubDate>
+      <title>Seminario de Aikido</title>
+      <link>http://localhost:1313/events/20150821-Seminario-de-Aikido/</link>
+      <pubDate>Fri, 21 Aug 2015 20:00:00 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/events/20150801_clase_danes/</guid>
-      <description>
+      <guid>http://localhost:1313/events/20150821-Seminario-de-Aikido/</guid>
+      <description>&lt;p&gt;Se invita a un charla libre y gratiuta el Viernes 21 de Agosto a las 20hs.&lt;/p&gt;
 
-&lt;p&gt;El sábado 1 de Agosto se llevará a cabo la Clase de Danes del mes, con la
-modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa
-Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck
-Sensei 6º Dan.&lt;/p&gt;
+&lt;p&gt;El Sabado 22, habra practicas desta las 10:00 stay 12:30, reotmando a las
+14:00 hasta las 16:00.&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/hakama.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_seminario_20150821.png&#34; /&gt;
     
     
 &lt;/figure&gt;
 &lt;/p&gt;
-
-&lt;h4 id=&#34;como-llegar:dff2abd2680e9fb63fe2d4b8d84523d3&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clase Especial y Exámenes</title>
-      <link>http://www.aikidoaikido.com.ar/events/20150808_clase_especial/</link>
-      <pubDate>Sat, 08 Aug 2015 14:00:00 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/events/20150808_clase_especial/</guid>
-      <description>
-
-&lt;p&gt;El día 8 de Agosto del corriente se realizará la Clase Especial y exámenes, la
-misma se llevará a cabo en la calle Río de Janeiro 869, Gimnasio Plaza Gym, en
-Villa Allende.&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/clase_especial_20150808.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&#34;como-llegar:c70543e94dcf5f113735b10f576875f8&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3409.532340172432!2d-64.29293860000001!3d-31.289028699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329d1e5be040f1%3A0xab20fff13f91af68!2sR%C3%ADo+de+Janeiro+869%2C+Villa+Allende%2C+C%C3%B3rdoba!5e0!3m2!1sen!2sar!4v1438273620342&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
 </description>
     </item>
     
     <item>
       <title>Seminario Internacional - Sensei Philip Berrios</title>
-      <link>http://www.aikidoaikido.com.ar/events/20150829_seminario_internacional/</link>
+      <link>http://localhost:1313/events/20150829_seminario_internacional/</link>
       <pubDate>Sat, 29 Aug 2015 09:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/events/20150829_seminario_internacional/</guid>
+      <guid>http://localhost:1313/events/20150829_seminario_internacional/</guid>
       <description>&lt;p&gt;Los días 29 y 30 de Agosto se llevará a cabo el Seminario Internacional dictado
 por Philip Berrios Sensei. El mismo se dictará durante todo el sábado y hasta
 el medio día del domingo, recordamos a los participantes que la inscripción al
@@ -79,11 +46,39 @@ eventos.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150829.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_seminario_20150829.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
 &lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clase de Defensa Personal para Mujeres</title>
+      <link>http://localhost:1313/events/20150912-Clase-de-Defensa-Personal-para-Mujeres/</link>
+      <pubDate>Sat, 12 Sep 2015 13:16:00 -0300</pubDate>
+      
+      <guid>http://localhost:1313/events/20150912-Clase-de-Defensa-Personal-para-Mujeres/</guid>
+      <description>
+
+&lt;p&gt;El dia Sabado 12 de Septiembre a las 16:00 se llevara a cabo una clase de
+defensa personal para mujeres dictado por el Sensei Raul Marcial Medina Franck,
+6to Dan de Aikido, 6to Dan de Judo y 5to Dan de Jiu Jitsu. Estan todos
+invitados, sean o no practicantes del dojo.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_clase_defensa_mujeres_20150912.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h3 id=&#34;como-llegar:09f83f12bd86b7b416c2304e34e57092&#34;&gt;Como llegar&lt;/h3&gt;
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     

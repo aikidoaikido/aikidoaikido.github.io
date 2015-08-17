@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seminario on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/categories/seminario/</link>
+    <link>http://localhost:1313/categories/seminario/</link>
     <description>Recent content in Seminario on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 13 Jun 2015 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/categories/seminario/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/categories/seminario/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Seminario y examen de kyus</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</link>
+      <link>http://localhost:1313/pastevents/2015/20150613-seminario_examen_kyus/</link>
       <pubDate>Sat, 13 Jun 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150613-seminario_examen_kyus/</guid>
       <description>
 
 &lt;p&gt;Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.
@@ -24,7 +24,7 @@ practicantes que rinden.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150613.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_seminario_20150613.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -38,10 +38,10 @@ practicantes que rinden.&lt;/p&gt;
     
     <item>
       <title>Seminario y examen de kyus</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</link>
+      <link>http://localhost:1313/pastevents/2015/20150328-seminario_examen_kyus/</link>
       <pubDate>Sat, 28 Mar 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150328-seminario_examen_kyus/</guid>
       <description>
 
 &lt;p&gt;Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.&lt;/p&gt;
@@ -54,10 +54,10 @@ practicantes que rinden.&lt;/p&gt;
     
     <item>
       <title>Seminario y examen de kyus</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141129-seminario%20examen%20kyus/</link>
+      <link>http://localhost:1313/pastevents/2014/20141129-seminario%20examen%20kyus/</link>
       <pubDate>Sat, 29 Nov 2014 16:40:39 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141129-seminario%20examen%20kyus/</guid>
+      <guid>http://localhost:1313/pastevents/2014/20141129-seminario%20examen%20kyus/</guid>
       <description>
 
 &lt;p&gt;

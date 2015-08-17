@@ -2,26 +2,81 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pastevents on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/pastevents/</link>
+    <link>http://localhost:1313/pastevents/</link>
     <description>Recent content in Pastevents on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 11 Jul 2015 09:49:32 -0300</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 08 Aug 2015 14:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/pastevents/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Clase Especial y Exámenes</title>
+      <link>http://localhost:1313/pastevents/2015/20150808_clase_especial/</link>
+      <pubDate>Sat, 08 Aug 2015 14:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pastevents/2015/20150808_clase_especial/</guid>
+      <description>
+
+&lt;p&gt;El día 8 de Agosto del corriente se realizará la Clase Especial y exámenes, la
+misma se llevará a cabo en la calle Río de Janeiro 869, Gimnasio Plaza Gym, en
+Villa Allende.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://localhost:1313/images/events/clase_especial_20150808.png&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;como-llegar:c70543e94dcf5f113735b10f576875f8&#34;&gt;Como llegar&lt;/h4&gt;
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3409.532340172432!2d-64.29293860000001!3d-31.289028699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329d1e5be040f1%3A0xab20fff13f91af68!2sR%C3%ADo+de+Janeiro+869%2C+Villa+Allende%2C+C%C3%B3rdoba!5e0!3m2!1sen!2sar!4v1438273620342&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Agosto</title>
+      <link>http://localhost:1313/pastevents/2015/20150801_clase_danes/</link>
+      <pubDate>Sat, 01 Aug 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pastevents/2015/20150801_clase_danes/</guid>
+      <description>
+
+&lt;p&gt;El sábado 1 de Agosto se llevará a cabo la Clase de Danes del mes, con la
+modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa
+Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck
+Sensei 6º Dan.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://localhost:1313/images/events/hakama.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;h4 id=&#34;como-llegar:dff2abd2680e9fb63fe2d4b8d84523d3&#34;&gt;Como llegar&lt;/h4&gt;
+
+&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
+</description>
+    </item>
     
     <item>
       <title>Seminario 15 Años de Aikido en Río Cuarto</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150711-Seminario-15-A%C3%B1os-de-Aikido-en-R%C3%ADo-Cuarto/</link>
+      <link>http://localhost:1313/pastevents/2015/20150711-Seminario-15-A%C3%B1os-de-Aikido-en-R%C3%ADo-Cuarto/</link>
       <pubDate>Sat, 11 Jul 2015 09:49:32 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150711-Seminario-15-A%C3%B1os-de-Aikido-en-R%C3%ADo-Cuarto/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150711-Seminario-15-A%C3%B1os-de-Aikido-en-R%C3%ADo-Cuarto/</guid>
       <description>&lt;p&gt;Se aproxima el festejo por los XV años del Aikido en Nuestra ciudad hermana de
 Río IV, y estamos todos invitados a participar en la celebración.&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150711.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_seminario_20150711.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -31,10 +86,10 @@ Río IV, y estamos todos invitados a participar en la celebración.&lt;/p&gt;
     
     <item>
       <title>Clase de Danes de Julio</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150704_clase_de_danes/</link>
+      <link>http://localhost:1313/pastevents/2015/20150704_clase_de_danes/</link>
       <pubDate>Sat, 04 Jul 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150704_clase_de_danes/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150704_clase_de_danes/</guid>
       <description>
 
 &lt;p&gt;El sábado 4 de Julio se llevará a cabo la Clase de Danes del mes, con la
@@ -45,7 +100,7 @@ Sensei 6º Dan.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/clase_dan_20150704.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/clase_dan_20150704.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -59,10 +114,10 @@ Sensei 6º Dan.&lt;/p&gt;
     
     <item>
       <title>Seminario Nacional de Mendoza</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150627_seminario_mendoza/</link>
+      <link>http://localhost:1313/pastevents/2015/20150627_seminario_mendoza/</link>
       <pubDate>Sat, 27 Jun 2015 08:30:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150627_seminario_mendoza/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150627_seminario_mendoza/</guid>
       <description>&lt;p&gt;Nos preparamos también para el Seminario Nacional de Mendoza el sábado 27 de
 Junio del corriente año. El mismo se llevará a cabo en Ayacucho 239 en el
 Gimnasio Municipal Nº3.&lt;/p&gt;
@@ -70,7 +125,7 @@ Gimnasio Municipal Nº3.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150627.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_seminario_20150627.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -80,10 +135,10 @@ Gimnasio Municipal Nº3.&lt;/p&gt;
     
     <item>
       <title>Seminario y examen de kyus</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</link>
+      <link>http://localhost:1313/pastevents/2015/20150613-seminario_examen_kyus/</link>
       <pubDate>Sat, 13 Jun 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150613-seminario_examen_kyus/</guid>
       <description>
 
 &lt;p&gt;Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.
@@ -93,7 +148,7 @@ practicantes que rinden.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150613.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/poster_seminario_20150613.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -107,10 +162,10 @@ practicantes que rinden.&lt;/p&gt;
     
     <item>
       <title>Clase de Danes de Junio</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150606_clase_danes/</link>
+      <link>http://localhost:1313/pastevents/2015/20150606_clase_danes/</link>
       <pubDate>Sat, 06 Jun 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150606_clase_danes/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150606_clase_danes/</guid>
       <description>
 
 &lt;p&gt;El sábado 6 de Junio se llevará a cabo la Clase de Danes del mes, con la
@@ -121,7 +176,7 @@ Sensei 6º Dan.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/clase_dan_20150606.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/clase_dan_20150606.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -135,10 +190,10 @@ Sensei 6º Dan.&lt;/p&gt;
     
     <item>
       <title>Clase de Danes de Abril</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150411_clase_danes/</link>
+      <link>http://localhost:1313/pastevents/2015/20150411_clase_danes/</link>
       <pubDate>Sat, 11 Apr 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150411_clase_danes/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150411_clase_danes/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -157,10 +212,10 @@ Sensei 6º Dan.&lt;/p&gt;
     
     <item>
       <title>Seminario y examen de kyus</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</link>
+      <link>http://localhost:1313/pastevents/2015/20150328-seminario_examen_kyus/</link>
       <pubDate>Sat, 28 Mar 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150328-seminario_examen_kyus/</guid>
       <description>
 
 &lt;p&gt;Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.&lt;/p&gt;
@@ -173,10 +228,10 @@ Sensei 6º Dan.&lt;/p&gt;
     
     <item>
       <title>Seminario Internacional - Santiago del Estero Aikikai</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150313_seminario_internacional_en_las_termas/</link>
+      <link>http://localhost:1313/pastevents/2015/20150313_seminario_internacional_en_las_termas/</link>
       <pubDate>Fri, 13 Mar 2015 17:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150313_seminario_internacional_en_las_termas/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150313_seminario_internacional_en_las_termas/</guid>
       <description>
 
 &lt;p&gt;Sensei Raúl Medina junto a practicantes de la Asociación viajaron al Seminario
@@ -186,7 +241,7 @@ días 13, 14 y 15 de Marzo de 2015.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/201503_seminario_termas/senseis.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/201503_seminario_termas/senseis.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -195,7 +250,7 @@ días 13, 14 y 15 de Marzo de 2015.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/201503_seminario_termas/senseis_y_practicantes.jpg&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/events/201503_seminario_termas/senseis_y_practicantes.jpg&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -227,10 +282,10 @@ posible tan magnifico evento. Un ejemplo!!!&lt;/p&gt;
     
     <item>
       <title>Clase de Danes de Febrero</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150307_clase_danes/</link>
+      <link>http://localhost:1313/pastevents/2015/20150307_clase_danes/</link>
       <pubDate>Sat, 07 Mar 2015 17:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150307_clase_danes/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150307_clase_danes/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -248,10 +303,10 @@ posible tan magnifico evento. Un ejemplo!!!&lt;/p&gt;
     
     <item>
       <title>Inauguración de Kogarashi Dojo</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</link>
+      <link>http://localhost:1313/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</link>
       <pubDate>Sat, 28 Feb 2015 18:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</guid>
       <description>
 
 &lt;p&gt;Tras muchos años de práctica y con gran esfuerzo, nuestros queridos fuku shidoines José Delgado y Eugenio Fernández abrieron &lt;a href=&#34;https://www.facebook.com/kogarashi&#34;&gt;&lt;em&gt;Kogarashi Dojo&lt;/em&gt;&lt;/a&gt;, en la zona de Alta Córdoba.&lt;/p&gt;
@@ -277,10 +332,10 @@ posible tan magnifico evento. Un ejemplo!!!&lt;/p&gt;
     
     <item>
       <title>Clase de Danes de Febrero</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150207_clase_danes/</link>
+      <link>http://localhost:1313/pastevents/2015/20150207_clase_danes/</link>
       <pubDate>Sat, 07 Feb 2015 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150207_clase_danes/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150207_clase_danes/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -298,10 +353,10 @@ posible tan magnifico evento. Un ejemplo!!!&lt;/p&gt;
     
     <item>
       <title>Aikido en Mundo D</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150120_federaciones_en_mundo_d/</link>
+      <link>http://localhost:1313/pastevents/2015/20150120_federaciones_en_mundo_d/</link>
       <pubDate>Tue, 20 Jan 2015 18:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150120_federaciones_en_mundo_d/</guid>
+      <guid>http://localhost:1313/pastevents/2015/20150120_federaciones_en_mundo_d/</guid>
       <description>&lt;p&gt;Sensei Raúl Medina Acompañado del Shidoin Juanjo Trakál hicieron una síntesis de la actividad de Aikido en Córdoba, su pasado y los proyectos venideros.&lt;/p&gt;
 
 &lt;iframe width=&#34;420&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/sZEVZL8w47Y&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
@@ -310,16 +365,16 @@ posible tan magnifico evento. Un ejemplo!!!&lt;/p&gt;
     
     <item>
       <title>Clase Especial en Buenos Aires</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_clase_especial/</link>
+      <link>http://localhost:1313/pastevents/2014/20141213_clase_especial/</link>
       <pubDate>Sat, 13 Dec 2014 16:00:00 +0000</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_clase_especial/</guid>
+      <guid>http://localhost:1313/pastevents/2014/20141213_clase_especial/</guid>
       <description>&lt;p&gt;Dictado por fukushidoin Omar Mazzieri (2do. Dan)&lt;/p&gt;
 
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/people/Omar%20Mazzieri.jpg&#34; alt=&#34;fukushidoin Omar Mazzieri&#34; /&gt;
+        &lt;img src=&#34;http://localhost:1313/images/people/Omar%20Mazzieri.jpg&#34; alt=&#34;fukushidoin Omar Mazzieri&#34; /&gt;
     
     
     &lt;figcaption&gt;
@@ -330,51 +385,6 @@ posible tan magnifico evento. Un ejemplo!!!&lt;/p&gt;
         
         &lt;/p&gt; 
     &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seminario Fin 2014</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_seminario_fin_de_ano/</link>
-      <pubDate>Sat, 13 Dec 2014 09:00:00 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_seminario_fin_de_ano/</guid>
-      <description>
-
-&lt;h2 id=&#34;convivencia-final-de-los-30-años-de-aikido-en-córdoba:1a53369dc3aa2eaf9f7e9509cb632a20&#34;&gt;Convivencia Final de los 30 Años de Aikido en Córdoba&lt;/h2&gt;
-
-&lt;p&gt;Comenzará a las 9 de la mañana y durará todo el día, hasta las 18 horas, con un almuerzo a la canasta y con práctica de aikido por la mañana y por la tarde.&lt;/p&gt;
-
-&lt;p&gt;Con este evento culminarán los festejos por los 30 años de Aikido en Córdoba.&lt;/p&gt;
-
-&lt;p&gt;Costo: 50 pesos.&lt;/p&gt;
-
-&lt;h1 id=&#34;como-llegar:1a53369dc3aa2eaf9f7e9509cb632a20&#34;&gt;Como llegar&lt;/h1&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6808.847613509315!2d-64.18320149716318!3d-31.429997585593988!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a2eb7f9c2dff%3A0xdb29c932daa46fd4!2sAv+Concepci%C3%B3n+Arenal+1177%2C+C%C3%B3rdoba!5e0!3m2!1ses-419!2sar!4v1417609264121&#34; width=&#34;600&#34; height=&#34;450&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clase de Danes de Diciembre</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141206_clase_danes/</link>
-      <pubDate>Sat, 06 Dec 2014 17:00:00 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141206_clase_danes/</guid>
-      <description>&lt;p&gt;Con mucha energía, camaradería y calor, se realizó la última clase de Danes del año 2014.&lt;/p&gt;
-
-&lt;p&gt;&lt;div id=&#34;photos&#34;&gt;&lt;/div&gt;
-&lt;iframe src=&#34;http://embedsocial.com/facebook_album/album_photos/770144306386764&#34; width=&#34;900&#34; height=&#34;1450&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34;  marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://aikidoaikido.com.ar/images/events/2014/poster-clase-danes-dic.jpg&#34; /&gt;
-    
     
 &lt;/figure&gt;
 &lt;/p&gt;
