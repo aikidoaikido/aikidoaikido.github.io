@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Infos on Asociación Cordobesa de Aikido</title>
-    <link>http://localhost:1313/info/</link>
+    <link>http://www.aikidoaikido.com.ar/info/</link>
     <description>Recent content in Infos on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <atom:link href="http://localhost:1313/info/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://www.aikidoaikido.com.ar/info/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Diccionario Técnico</title>
-      <link>http://localhost:1313/info/glossary/</link>
+      <link>http://www.aikidoaikido.com.ar/info/glossary/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/info/glossary/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/glossary/</guid>
       <description>&lt;p&gt;&lt;strong&gt;agatsu&lt;/strong&gt;: victoria sobre sí mismo.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;ai hanmi&lt;/strong&gt;: posición de UKE y NAGE, mismo pie adelantado.&lt;/p&gt;
@@ -601,10 +601,10 @@ Para el aikidoka en postura natural, pasa entre los dos pies, en el centro de la
     
     <item>
       <title>El Hakama</title>
-      <link>http://localhost:1313/info/hakama/</link>
+      <link>http://www.aikidoaikido.com.ar/info/hakama/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/info/hakama/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/hakama/</guid>
       <description>
 
 &lt;p&gt;El &lt;strong&gt;Hakama&lt;/strong&gt; es una prenda de vestir de origen japonés, parecida a una
@@ -726,7 +726,7 @@ desacomodar lo arreglado en la parte posterior.&lt;/p&gt;
 &lt;p&gt;
 &lt;figure &gt;
     
-        &lt;img src=&#34;http://localhost:1313/images/photos/hakama.png&#34; /&gt;
+        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/photos/hakama.png&#34; /&gt;
     
     
 &lt;/figure&gt;
@@ -766,10 +766,10 @@ próxima práctica.&lt;/p&gt;
     
     <item>
       <title>Etiqueta en el Dojo</title>
-      <link>http://localhost:1313/info/dojo_etiquette/</link>
+      <link>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/info/dojo_etiquette/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -829,10 +829,10 @@ próxima práctica.&lt;/p&gt;
     
     <item>
       <title>Nuestro Logo</title>
-      <link>http://localhost:1313/info/logo/</link>
+      <link>http://www.aikidoaikido.com.ar/info/logo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/info/logo/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/logo/</guid>
       <description>&lt;p&gt;En palabras de O&amp;rsquo;Sensei:&lt;/p&gt;
 
 &lt;blockquote&gt;
@@ -854,10 +854,10 @@ próxima práctica.&lt;/p&gt;
     
     <item>
       <title>Origen del Jo</title>
-      <link>http://localhost:1313/info/jo/</link>
+      <link>http://www.aikidoaikido.com.ar/info/jo/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/info/jo/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/jo/</guid>
       <description>&lt;p&gt;
 &lt;figure &gt;
     
@@ -883,10 +883,10 @@ próxima práctica.&lt;/p&gt;
     
     <item>
       <title>Requerimientos de Examen</title>
-      <link>http://localhost:1313/info/exams/</link>
+      <link>http://www.aikidoaikido.com.ar/info/exams/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/info/exams/</guid>
+      <guid>http://www.aikidoaikido.com.ar/info/exams/</guid>
       <description>
 
 &lt;p&gt;Estamos actualizando y dando formato a la información sobre los requerimientos de exámen, para cada grado. Agregaremos dicha información crucial a la brevedad.&lt;/p&gt;
