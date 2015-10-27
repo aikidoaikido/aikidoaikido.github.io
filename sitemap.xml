@@ -3,22 +3,32 @@
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/</loc>
-    <lastmod>2015-09-12T13:16:00-03:00</lastmod>
+    <lastmod>2015-11-07T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/20150912-Clase-de-Defensa-Personal-para-Mujeres/</loc>
+    <loc>http://www.aikidoaikido.com.ar/events/20151107_clase_danes/</loc>
+    <lastmod>2015-11-07T16:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/dojos/kudo/</loc>
+    <lastmod>2015-10-26T21:51:45-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150912-Clase-de-Defensa-Personal-para-Mujeres/</loc>
     <lastmod>2015-09-12T13:16:00-03:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/20150829_seminario_internacional/</loc>
+    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150829_seminario_internacional/</loc>
     <lastmod>2015-08-29T09:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/20150821-Seminario-de-Aikido/</loc>
+    <loc>http://www.aikidoaikido.com.ar/pastevents/2015/20150821-Seminario-de-Aikido/</loc>
     <lastmod>2015-08-21T20:00:00-03:00</lastmod>
   </url>
   
@@ -213,11 +223,6 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20III/</loc>
-    <lastmod>2014-09-07T19:55:40-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.aikidoaikido.com.ar/dojos/Neko%20Dojo/</loc>
     <lastmod>2014-09-07T19:46:46-03:00</lastmod>
   </url>
@@ -238,11 +243,6 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20II/</loc>
-    <lastmod>2014-09-07T18:55:08-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Toay/</loc>
     <lastmod>2014-09-07T18:55:08-03:00</lastmod>
   </url>
@@ -254,16 +254,6 @@
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Gimnasio%20Municipal%20N%203/</loc>
-    <lastmod>2014-09-07T18:48:08-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20Marubashi%20Dojo%20I/</loc>
-    <lastmod>2014-09-07T18:48:08-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/Marubashi%20Dojo%20-%20San%20Luis%20Shopping%20Center/</loc>
     <lastmod>2014-09-07T18:48:08-03:00</lastmod>
   </url>
   
@@ -295,11 +285,6 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/dojos/kokoro/</loc>
     <lastmod>2014-09-07T17:47:45-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://www.aikidoaikido.com.ar/dojos/kazoku/</loc>
-    <lastmod>2014-09-07T19:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -378,15 +363,11 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</loc>
-  </url>
-  
-  <url>
     <loc>http://www.aikidoaikido.com.ar/info/exams/</loc>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</loc>
   </url>
   
   <url>
@@ -394,11 +375,15 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/info/jo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
   </url>
   
 </urlset>
