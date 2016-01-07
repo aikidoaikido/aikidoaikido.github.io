@@ -6,8 +6,18 @@
     <description>Recent content on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Mon, 09 Nov 2015 12:38:20 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 06 Jan 2016 13:18:04 +0000</lastBuildDate>
     <atom:link href="http://www.aikidoaikido.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Videos</title>
+      <link>http://www.aikidoaikido.com.ar/videos/</link>
+      <pubDate>Wed, 06 Jan 2016 13:18:04 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/videos/</guid>
+      <description>&lt;div id=&#34;youmax&#34; class=&#34;youmax&#34;&gt;&lt;/div&gt; 
+</description>
+    </item>
     
     <item>
       <title>Clase de danes de Noviembre</title>
@@ -438,33 +448,6 @@ Medina Franck 6to. Dan, Juan J Trakal 4to. Dan y José Delgado 3er, Dan&lt;/p&gt
 &lt;li&gt;Luciana Medina&lt;/li&gt;
 &lt;/ul&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Seminario y examen de kyus</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</link>
-      <pubDate>Sat, 13 Jun 2015 16:00:00 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</guid>
-      <description>
-
-&lt;p&gt;Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.
-Tendrá un costo de 80 pesos para practicantes en general y de 50 para
-practicantes que rinden.&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150613.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-
-&lt;h4 id=&#34;como-llegar:a5eb8eefc137d64cf005bd8d3ff4a744&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     
