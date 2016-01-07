@@ -376,11 +376,7 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/jo/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
   </url>
   
   <url>
@@ -388,7 +384,11 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/jo/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
   </url>
   
 </urlset>
