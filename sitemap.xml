@@ -378,11 +378,7 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</loc>
-  </url>
-  
-  <url>
-    <loc>http://www.aikidoaikido.com.ar/info/exams/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
   </url>
   
   <url>
@@ -390,7 +386,11 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/glossary/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</loc>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
   </url>
   
   <url>
@@ -398,7 +398,7 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/info/logo/</loc>
+    <loc>http://www.aikidoaikido.com.ar/info/exams/</loc>
   </url>
   
 </urlset>
