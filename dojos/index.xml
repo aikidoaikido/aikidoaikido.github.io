@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Dojos on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/dojos/</link>
-    <description>Recent content in Dojos on Asociación Cordobesa de Aikido</description>
+    <title>Dojos-rsses on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/dojos/index.xml</link>
+    <description>Recent content in Dojos-rsses on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Mon, 26 Oct 2015 21:51:45 -0300</lastBuildDate>
@@ -43,11 +43,11 @@
       <guid>http://www.aikidoaikido.com.ar/dojos/Accenture%20Dojo/</guid>
       <description>
 
-&lt;h1 id=&#34;horarios:0111762a210d417c5354acaabc65a72e&#34;&gt;Horarios&lt;/h1&gt;
+&lt;h1 id=&#34;horarios&#34;&gt;Horarios&lt;/h1&gt;
 
 &lt;p&gt;Martes y Jueves 18:30Hs&lt;/p&gt;
 
-&lt;h1 id=&#34;imagenes:0111762a210d417c5354acaabc65a72e&#34;&gt;Imagenes&lt;/h1&gt;
+&lt;h1 id=&#34;imagenes&#34;&gt;Imagenes&lt;/h1&gt;
 
 
 &lt;figure &gt;
@@ -77,11 +77,11 @@
       <guid>http://www.aikidoaikido.com.ar/dojos/Toku-iku%20Dojo/</guid>
       <description>
 
-&lt;h1 id=&#34;horarios:be98518f757c5eabad3be33c65f1f8d8&#34;&gt;Horarios&lt;/h1&gt;
+&lt;h1 id=&#34;horarios&#34;&gt;Horarios&lt;/h1&gt;
 
 &lt;p&gt;Martes y Jueves 20:30Hs&lt;/p&gt;
 
-&lt;h1 id=&#34;cómo-llegar:be98518f757c5eabad3be33c65f1f8d8&#34;&gt;Cómo llegar&lt;/h1&gt;
+&lt;h1 id=&#34;cómo-llegar&#34;&gt;Cómo llegar&lt;/h1&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3284.76597329677!2d-58.42440189999999!3d-34.58478769999999!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x95bcb5869e7c4955%3A0xd77ab19fb1f338af!2sJorge+Luis+Borges+2186%2C+Buenos+Aires%2C+Ciudad+Aut%C3%B3noma+de+Buenos+Aires!5e0!3m2!1sen!2sar!4v1416173320369&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -197,7 +197,7 @@ consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.&lt;/p&g
       <guid>http://www.aikidoaikido.com.ar/dojos/ikiru/</guid>
       <description>
 
-&lt;h1 id=&#34;horarios:8464db47d132ef6392ada60f6412a446&#34;&gt;Horarios&lt;/h1&gt;
+&lt;h1 id=&#34;horarios&#34;&gt;Horarios&lt;/h1&gt;
 
 &lt;p&gt;Lunes, Miercoles y Viernes de 21.15 a 22.30 hs.&lt;/p&gt;
 </description>
@@ -220,9 +220,9 @@ consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.&lt;/p&g
       <guid>http://www.aikidoaikido.com.ar/dojos/horarios/</guid>
       <description>
 
-&lt;h1 id=&#34;horarios:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;Horarios&lt;/h1&gt;
+&lt;h1 id=&#34;horarios&#34;&gt;Horarios&lt;/h1&gt;
 
-&lt;h2 id=&#34;aikido:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;AIKIDO&lt;/h2&gt;
+&lt;h2 id=&#34;aikido&#34;&gt;AIKIDO&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -275,7 +275,7 @@ consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.&lt;/p&g
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h2 id=&#34;aikido-niños:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;AIKIDO NIÑOS&lt;/h2&gt;
+&lt;h2 id=&#34;aikido-niños&#34;&gt;AIKIDO NIÑOS&lt;/h2&gt;
 
 &lt;table&gt;
 &lt;thead&gt;
@@ -301,11 +301,11 @@ consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.&lt;/p&g
 &lt;/tbody&gt;
 &lt;/table&gt;
 
-&lt;h1 id=&#34;jefe-de-instructores:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;Jefe de Instructores&lt;/h1&gt;
+&lt;h1 id=&#34;jefe-de-instructores&#34;&gt;Jefe de Instructores&lt;/h1&gt;
 
 &lt;p&gt;Raul Marcial Medina Franck Sensei 6to.Dan de Aikido, 6to.Dan de Judo y 5to.Dan de JiuJitsu Koryu&lt;/p&gt;
 
-&lt;h2 id=&#34;instructores:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;Instructores&lt;/h2&gt;
+&lt;h2 id=&#34;instructores&#34;&gt;Instructores&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Juan José Trakal 4er. Dan Aikido&lt;/li&gt;
@@ -317,7 +317,7 @@ consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.&lt;/p&g
 &lt;li&gt;Pablo Boetsch 1er. Dan Aikido&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;instructor-asistente:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;Instructor Asistente&lt;/h3&gt;
+&lt;h3 id=&#34;instructor-asistente&#34;&gt;Instructor Asistente&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Luis Moreno 1er. Dan Aikido&lt;/li&gt;
@@ -328,13 +328,13 @@ consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.&lt;/p&g
 &lt;li&gt;Horacio Contreras 1er. Dan Aikido&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;instructor-niños:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;Instructor Niños&lt;/h2&gt;
+&lt;h2 id=&#34;instructor-niños&#34;&gt;Instructor Niños&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Eugenia Cataldo, Psicóloga y Primer Dan de Aikido&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h3 id=&#34;instructor-asistente-1:eb02f2cd5edfec401b6d9d9f77a7fc10&#34;&gt;Instructor Asistente&lt;/h3&gt;
+&lt;h3 id=&#34;instructor-asistente-1&#34;&gt;Instructor Asistente&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Sofía Galleguillo&lt;/li&gt;

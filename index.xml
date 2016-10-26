@@ -2,12 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/</link>
+    <link>http://www.aikidoaikido.com.ar/index.xml</link>
     <description>Recent content on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 29 Sep 2016 17:17:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2016 17:17:51 -0300</lastBuildDate>
     <atom:link href="http://www.aikidoaikido.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seminario y Exámenes en San Francisco, Córdoba</title>
+      <link>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</link>
+      <pubDate>Wed, 26 Oct 2016 17:17:51 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</guid>
+      <description>&lt;p&gt;Se recuerda a los practicantes de Aikido que el próximo 29 de Octubre
+se llevará a cabo un Seminario y Exámenes de Aikido en ciudad de
+San Francisco, Córdoba dictado por el Sensei Raúl Marcial Medina Franck.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20161029.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Seminario en La Rioja</title>
@@ -116,7 +137,7 @@ se harán desde las 08.00 hs.  El día Domingo continúa el Seminario de 10.00 a
 &lt;/figure&gt;
 
 
-&lt;h4 id=&#34;como-llegar:9dc32c5042cd8fa24f38a359c8fda584&#34;&gt;Como llegar&lt;/h4&gt;
+&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -209,11 +230,11 @@ interior del país y aún del exterior.&lt;/p&gt;
 La información sobre cada actividad se irá ampliando y actualizando a medida
 que se disponga de la misma.&lt;/p&gt;
 
-&lt;h2 id=&#34;clases:453326a12118412bb69ac5e5b8951e56&#34;&gt;Clases&lt;/h2&gt;
+&lt;h2 id=&#34;clases&#34;&gt;Clases&lt;/h2&gt;
 
 &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showCalendars=0&amp;amp;mode=WEEK&amp;amp;height=600&amp;amp;wkst=1&amp;amp;hl=es_419&amp;amp;bgcolor=%23ffffff&amp;amp;src=mnqjpie8ks2ub10ap2q6dh3kuk%40group.calendar.google.com&amp;amp;color=%232952A3&amp;amp;ctz=America%2FArgentina%2FBuenos_Aires&#34; style=&#34;border-width:0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&#34;seminarios:453326a12118412bb69ac5e5b8951e56&#34;&gt;Seminarios&lt;/h2&gt;
+&lt;h2 id=&#34;seminarios&#34;&gt;Seminarios&lt;/h2&gt;
 
 &lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showCalendars=0&amp;amp;mode=AGENDA&amp;amp;height=600&amp;amp;wkst=1&amp;amp;hl=es_419&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=ba5jda3ik24n5msns5vr5t1d8s%40group.calendar.google.com&amp;amp;color=%23182C57&amp;amp;ctz=America%2FArgentina%2FBuenos_Aires&#34; style=&#34;border-width:0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -270,7 +291,7 @@ Sensei 6º Dan.&lt;/p&gt;
 &lt;/figure&gt;
 
 
-&lt;h4 id=&#34;como-llegar:0980967be3aedba859a6112d87168506&#34;&gt;Como llegar&lt;/h4&gt;
+&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -307,7 +328,7 @@ invitados, sean o no practicantes del dojo.&lt;/p&gt;
 &lt;/figure&gt;
 
 
-&lt;h3 id=&#34;como-llegar:09f83f12bd86b7b416c2304e34e57092&#34;&gt;Como llegar&lt;/h3&gt;
+&lt;h3 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h3&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
@@ -379,37 +400,9 @@ Villa Allende.&lt;/p&gt;
 &lt;/figure&gt;
 
 
-&lt;h4 id=&#34;como-llegar:c70543e94dcf5f113735b10f576875f8&#34;&gt;Como llegar&lt;/h4&gt;
+&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3409.532340172432!2d-64.29293860000001!3d-31.289028699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329d1e5be040f1%3A0xab20fff13f91af68!2sR%C3%ADo+de+Janeiro+869%2C+Villa+Allende%2C+C%C3%B3rdoba!5e0!3m2!1sen!2sar!4v1438273620342&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Clase de Danes de Agosto</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150801_clase_danes/</link>
-      <pubDate>Sat, 01 Aug 2015 16:00:00 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150801_clase_danes/</guid>
-      <description>
-
-&lt;p&gt;El sábado 1 de Agosto se llevará a cabo la Clase de Danes del mes, con la
-modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa
-Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck
-Sensei 6º Dan.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/hakama.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h4 id=&#34;como-llegar:dff2abd2680e9fb63fe2d4b8d84523d3&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
     </item>
     

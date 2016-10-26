@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nota on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/tags/nota/</link>
-    <description>Recent content in Nota on Asociación Cordobesa de Aikido</description>
+    <title>Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/tags/nota/index.xml</link>
+    <description>Recent content on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 18 Oct 2014 10:00:00 +0000</lastBuildDate>
     <atom:link href="http://www.aikidoaikido.com.ar/tags/nota/index.xml" rel="self" type="application/rss+xml" />
     
     <item>

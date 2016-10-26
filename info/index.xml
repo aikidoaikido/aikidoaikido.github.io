@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Infos on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/info/</link>
-    <description>Recent content in Infos on Asociación Cordobesa de Aikido</description>
+    <title>Info-rsses on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/info/index.xml</link>
+    <description>Recent content in Info-rsses on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <atom:link href="http://www.aikidoaikido.com.ar/info/index.xml" rel="self" type="application/rss+xml" />
@@ -660,7 +660,7 @@ tiempos que O Sensei vivía, dicen, que el lugar de práctica se veía muy
 colorido por los HakamaS de distintos colores y estampados (recuerden la
 dificultad para conseguir tela).&lt;/p&gt;
 
-&lt;h1 id=&#34;partes-del-hakama-y-sus-nombres:dee64207ac6bda12c635791236231689&#34;&gt;Partes Del Hakama Y Sus Nombres&lt;/h1&gt;
+&lt;h1 id=&#34;partes-del-hakama-y-sus-nombres&#34;&gt;Partes Del Hakama Y Sus Nombres&lt;/h1&gt;
 
 &lt;p&gt;En su parte trasera tiene una tabla, en su parte delantera las tablas son cinco, tres del lado izquierdo y dos del lado derecho lo que hace un total de seis tablas. Los cinco pliegues delanteros representan las cinco virtudes, GOTOKU, de la sociedad tradicional japonesa, la tabla trasera simboliza que en realidad las cinco son una, que son de un ser humano unificado. Las cinco virtudes son:&lt;/p&gt;
 
@@ -679,7 +679,7 @@ tiras largas de la parte delantera llamadas &lt;em&gt;HIMO&lt;/em&gt;. En la uni
 trasera con la delantera, parte de arriba hay dos ventilaciones laterales
 llamadas &lt;em&gt;MATADACHI&lt;/em&gt;.&lt;/p&gt;
 
-&lt;h1 id=&#34;forma-de-colocarse-el-hakama:dee64207ac6bda12c635791236231689&#34;&gt;Forma de colocarse el Hakama&lt;/h1&gt;
+&lt;h1 id=&#34;forma-de-colocarse-el-hakama&#34;&gt;Forma de colocarse el Hakama&lt;/h1&gt;
 
 &lt;p&gt;He visto a muchos maestros en distintos países, colocarse su Hakama de formas
 distintas, por lo que llego a la conclusión que no importa mucho como se
@@ -705,7 +705,7 @@ mas largos, los llevo hacia atrás los cruzo y traigo hacia delante donde hago
 un nudo doble. Los extremos que quedan, los introduzco debajo de los mismos mae
 himos a ambos lado de la cintura.&lt;/p&gt;
 
-&lt;h1 id=&#34;como-doblar-el-hakama-al-terminar-la-practica:dee64207ac6bda12c635791236231689&#34;&gt;Como doblar el Hakama al terminar la practica&lt;/h1&gt;
+&lt;h1 id=&#34;como-doblar-el-hakama-al-terminar-la-practica&#34;&gt;Como doblar el Hakama al terminar la practica&lt;/h1&gt;
 
 &lt;p&gt;Luego de desatar los cuatro himos tomo con la mano derecha el koshiita y con la
 mano izquierda la parte delantera, saco la pierna derecha primero y luego la
@@ -889,9 +889,9 @@ próxima práctica.&lt;/p&gt;
       <guid>http://www.aikidoaikido.com.ar/info/exams/</guid>
       <description>
 
-&lt;h1 id=&#34;requisitos-de-exámen:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Requisitos de exámen&lt;/h1&gt;
+&lt;h1 id=&#34;requisitos-de-exámen&#34;&gt;Requisitos de exámen&lt;/h1&gt;
 
-&lt;h2 id=&#34;sandan:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Sandan&lt;/h2&gt;
+&lt;h2 id=&#34;sandan&#34;&gt;Sandan&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;700 días&lt;/li&gt;
@@ -901,7 +901,7 @@ próxima práctica.&lt;/p&gt;
 &lt;p&gt;Programa a determinar por el examinador en el momento del examen&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;h2 id=&#34;nidan:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Nidan&lt;/h2&gt;
+&lt;h2 id=&#34;nidan&#34;&gt;Nidan&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;600 días&lt;/li&gt;
@@ -911,7 +911,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Estilo libre: 5 Ukes&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;shodan:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Shodan&lt;/h2&gt;
+&lt;h2 id=&#34;shodan&#34;&gt;Shodan&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;400 días&lt;/li&gt;
@@ -922,7 +922,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Estilo libre: 4 Ukes&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;1-kyu:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;1°kyu&lt;/h2&gt;
+&lt;h2 id=&#34;1-kyu&#34;&gt;1°kyu&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;300 días&lt;/li&gt;
@@ -937,7 +937,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Estilo libre: 3 Ukes&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;2-kyu:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;2°kyu&lt;/h2&gt;
+&lt;h2 id=&#34;2-kyu&#34;&gt;2°kyu&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;200 días&lt;/li&gt;
@@ -954,7 +954,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Ataque libre: 2 Ukes&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;3-kyu:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;3°kyu&lt;/h2&gt;
+&lt;h2 id=&#34;3-kyu&#34;&gt;3°kyu&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;100 días&lt;/li&gt;
@@ -970,7 +970,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Hanmi handachi Katatetori Kaitennage&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;4-kyu:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;4°kyu&lt;/h2&gt;
+&lt;h2 id=&#34;4-kyu&#34;&gt;4°kyu&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;80 días&lt;/li&gt;
@@ -984,7 +984,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Suwari waza Katatori Sankyo&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;5-kyu:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;5°kyu&lt;/h2&gt;
+&lt;h2 id=&#34;5-kyu&#34;&gt;5°kyu&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;60 días&lt;/li&gt;
@@ -997,7 +997,7 @@ próxima práctica.&lt;/p&gt;
 &lt;li&gt;Morotetori Kokyuho&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h1 id=&#34;recomendaciones-generales-para-los-postulantes:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Recomendaciones generales para los postulantes&lt;/h1&gt;
+&lt;h1 id=&#34;recomendaciones-generales-para-los-postulantes&#34;&gt;Recomendaciones generales para los postulantes&lt;/h1&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Deben realizar el tramite administrativo tres días antes del examen.&lt;/li&gt;
@@ -1031,7 +1031,7 @@ teniendo siempre presente la tradición de sempai – kohai y prestar especial
 atención a los nuevos practicantes.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;requisitos-para-el-nague:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Requisitos para el nague&lt;/h2&gt;
+&lt;h2 id=&#34;requisitos-para-el-nague&#34;&gt;Requisitos para el nague&lt;/h2&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Entendimiento y correcta aplicación del kihon waza y de principios
@@ -1048,7 +1048,7 @@ inmovilización correctamente.&lt;/li&gt;
 &lt;li&gt;Conciencia marcial.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;h2 id=&#34;requisitos-para-el-uke:b01aff9b2f61ca17d0c7c4979617efe1&#34;&gt;Requisitos para el uke&lt;/h2&gt;
+&lt;h2 id=&#34;requisitos-para-el-uke&#34;&gt;Requisitos para el uke&lt;/h2&gt;
 
 &lt;p&gt;Asumir el rol de uke es una seria responsabilidad, cada técnica se desarrolla
 para estudiar una dirección específica. Como uke debe comprender esto, y poseer

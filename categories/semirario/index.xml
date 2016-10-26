@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Semirario on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/categories/semirario/</link>
-    <description>Recent content in Semirario on Asociación Cordobesa de Aikido</description>
+    <title>Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/categories/semirario/index.xml</link>
+    <description>Recent content on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 27 Sep 2014 16:40:39 +0000</lastBuildDate>
     <atom:link href="http://www.aikidoaikido.com.ar/categories/semirario/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
@@ -26,7 +25,7 @@
 &lt;/figure&gt;
 
 
-&lt;h3 id=&#34;información-adicional:6a5894a8138ebd2711be5a1157eb3d6b&#34;&gt;Información adicional&lt;/h3&gt;
+&lt;h3 id=&#34;información-adicional&#34;&gt;Información adicional&lt;/h3&gt;
 
 &lt;ul&gt;
 &lt;li&gt;Acreditación: 8:30 horas&lt;/li&gt;
@@ -42,15 +41,15 @@ demostración de &lt;em&gt;Taiko&lt;/em&gt; (tambores japoneses).&lt;/p&gt;
 &lt;p&gt;Terminado el seminario, a la noche habrá una celebración de camaradería en el
 dojo de la Acociación.&lt;/p&gt;
 
-&lt;h4 id=&#34;como-llegar:6a5894a8138ebd2711be5a1157eb3d6b&#34;&gt;Como llegar&lt;/h4&gt;
+&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.311346669247!2d-64.20209169999995!3d-31.40554689999997!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x49e790092bee40d3!2sEscuela+Superior+de+Comercio+Manuel+Belgrano!5e0!3m2!1sen!2sar!4v1411526628160&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 
-&lt;p&gt;&lt;div id=&#34;photos&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;photos&#34;&gt;&lt;/div&gt;
 &lt;iframe src=&#34;http://embedsocial.com/facebook_album/album_photos/733664026701459&#34; width=&#34;900&#34; height=&#34;1450&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34; marginheight=&#34;0&#34;  marginwidth=&#34;0&#34;&gt;&lt;/iframe&gt;
-&lt;/p&gt;
+
 </description>
     </item>
     

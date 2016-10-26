@@ -1,13 +1,34 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/news/</link>
-    <description>Recent content in News on Asociación Cordobesa de Aikido</description>
+    <title>News-rsses on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/news/index.xml</link>
+    <description>Recent content in News-rsses on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 29 Sep 2016 17:17:51 -0300</lastBuildDate>
+    <lastBuildDate>Wed, 26 Oct 2016 17:17:51 -0300</lastBuildDate>
     <atom:link href="http://www.aikidoaikido.com.ar/news/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Seminario y Exámenes en San Francisco, Córdoba</title>
+      <link>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</link>
+      <pubDate>Wed, 26 Oct 2016 17:17:51 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</guid>
+      <description>&lt;p&gt;Se recuerda a los practicantes de Aikido que el próximo 29 de Octubre
+se llevará a cabo un Seminario y Exámenes de Aikido en ciudad de
+San Francisco, Córdoba dictado por el Sensei Raúl Marcial Medina Franck.&lt;/p&gt;
+
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20161029.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+</description>
+    </item>
     
     <item>
       <title>Seminario en La Rioja</title>
@@ -116,7 +137,7 @@ se harán desde las 08.00 hs.  El día Domingo continúa el Seminario de 10.00 a
 &lt;/figure&gt;
 
 
-&lt;h4 id=&#34;como-llegar:9dc32c5042cd8fa24f38a359c8fda584&#34;&gt;Como llegar&lt;/h4&gt;
+&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
 
 &lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
 </description>
