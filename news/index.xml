@@ -1,492 +1,145 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>News-rsses on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/news/index.xml</link>
-    <description>Recent content in News-rsses on Asociación Cordobesa de Aikido</description>
+    <title>News on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/news/</link>
+    <description>Recent content in News on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Thu, 22 Dec 2016 12:49:09 -0300</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/news/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.aikidoaikido.com.ar/news/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Felices Fiestas</title>
-      <link>http://www.aikidoaikido.com.ar/news/Felices-Fiestas/</link>
+      <link>http://www.aikidoaikido.com.ar/news/felices-fiestas/</link>
       <pubDate>Thu, 22 Dec 2016 12:49:09 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Felices-Fiestas/</guid>
-      <description>&lt;p&gt;Desde la Ascociación Cordobesa de Aikido les deseamos &lt;strong&gt;felices
-fiestas&lt;/strong&gt; a todos los practicantes y allegados a la
-Asociación Cordobesa de Aikido.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/christmas-tree.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Se les recuerda que hoy se celebrará este fin de año en una cena
-a la que estan invitados todos, para más información dirigirse al
-Dojo. Por este motivo, se comunica que únicamente habrá prácticas
-de Aikido en el horario de la tarde de 18:30 a 19:30.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Felíz Navidad y Año Nuevo.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/felices-fiestas/</guid>
+      <description>Desde la Ascociación Cordobesa de Aikido les deseamos felices fiestas a todos los practicantes y allegados a la Asociación Cordobesa de Aikido.
+ Se les recuerda que hoy se celebrará este fin de año en una cena a la que estan invitados todos, para más información dirigirse al Dojo. Por este motivo, se comunica que únicamente habrá prácticas de Aikido en el horario de la tarde de 18:30 a 19:30.</description>
     </item>
     
     <item>
       <title>Clase especial a beneficio</title>
-      <link>http://www.aikidoaikido.com.ar/news/Clase-especial-a-beneficio/</link>
+      <link>http://www.aikidoaikido.com.ar/news/clase-especial-a-beneficio/</link>
       <pubDate>Mon, 21 Nov 2016 10:48:25 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Clase-especial-a-beneficio/</guid>
-      <description>&lt;p&gt;El sábado 26 de Noviembre se realizará una Clase Especial a
-beneficio de un compañero que necesita nuestro apoyo. La misma
-contará con clases dictadas por los distintos instructores de la
-Asociación que mostrarán una amplia variedad de técnicas. El costo
-es de $100 y será utilizado para colaborar con
-Nuestro compañero, no faltes.&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/clase-especial-a-beneficio/</guid>
+      <description>El sábado 26 de Noviembre se realizará una Clase Especial a beneficio de un compañero que necesita nuestro apoyo. La misma contará con clases dictadas por los distintos instructores de la Asociación que mostrarán una amplia variedad de técnicas. El costo es de $100 y será utilizado para colaborar con Nuestro compañero, no faltes.</description>
     </item>
     
     <item>
       <title>Seminario y Exámenes en San Francisco, Córdoba</title>
-      <link>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</link>
+      <link>http://www.aikidoaikido.com.ar/news/seminario-en-san-francisco/</link>
       <pubDate>Wed, 26 Oct 2016 17:17:51 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</guid>
-      <description>&lt;p&gt;Se recuerda a los practicantes de Aikido que el próximo 29 de Octubre
-se llevará a cabo un Seminario y Exámenes de Aikido en ciudad de
-San Francisco, Córdoba dictado por el Sensei Raúl Marcial Medina Franck.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20161029.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/seminario-en-san-francisco/</guid>
+      <description>Se recuerda a los practicantes de Aikido que el próximo 29 de Octubre se llevará a cabo un Seminario y Exámenes de Aikido en ciudad de San Francisco, Córdoba dictado por el Sensei Raúl Marcial Medina Franck.
+ </description>
     </item>
     
     <item>
       <title>Seminario en La Rioja</title>
-      <link>http://www.aikidoaikido.com.ar/news/Seminario-en-La-Rioja/</link>
+      <link>http://www.aikidoaikido.com.ar/news/seminario-en-la-rioja/</link>
       <pubDate>Thu, 29 Sep 2016 17:17:51 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Seminario-en-La-Rioja/</guid>
-      <description>&lt;p&gt;Se recuerda a los practicantes de Aikido que el próximo 15 de Octubre
-se llevará a cabo un Seminario Nacional en La Rioja dictado por el Sensei
-Raúl Medina.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20161015.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/seminario-en-la-rioja/</guid>
+      <description>Se recuerda a los practicantes de Aikido que el próximo 15 de Octubre se llevará a cabo un Seminario Nacional en La Rioja dictado por el Sensei Raúl Medina.
+ </description>
     </item>
     
     <item>
       <title>Agrandamos la lista de Danes</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160801-Agrandamos-la-lista-de-Danes/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160801-agrandamos-la-lista-de-danes/</link>
       <pubDate>Mon, 01 Aug 2016 19:17:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160801-Agrandamos-la-lista-de-Danes/</guid>
-      <description>&lt;p&gt;El sábado 30 de Julio participamos en el clásico Seminario de Invierno
-de Nuestra Asociación, el mismo contó con la conducción y clases por
-Nuestro Sensei Raúl Medina. También pudimos disfrutar de técnicas mostradas
-por Sensei Daniel Medina y Shidoin Juan José Trakál.&lt;/p&gt;
-
-&lt;p&gt;En el cierre del mismo pudimos disfrutar de los exámenes  para 1º Dan de
-Nuestra casa Central:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Arrascaeta Roberto&lt;/li&gt;
-&lt;li&gt;Schvezov Sergio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;de Kokoro Dojo:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Argañaraz Javier&lt;/li&gt;
-&lt;li&gt;Gandini Andrés&lt;/li&gt;
-&lt;li&gt;Ganancias Luz&lt;/li&gt;
-&lt;li&gt;Sosa Rodolfo&lt;/li&gt;
-&lt;li&gt;Carmona Diego&lt;/li&gt;
-&lt;li&gt;Bolaños Castro Pablo&lt;/li&gt;
-&lt;li&gt;Sarmiento Paz Fernando&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;para 2º Dan de:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Eugenia Izquierdo de nuestro Dojo en Buenos Aires&lt;/li&gt;
-&lt;li&gt;Rizo Gustavo de Catamarca&lt;/li&gt;
-&lt;li&gt;Roberto Urriza de Casa Central&lt;/li&gt;
-&lt;li&gt;Gustavino Florencia de Kokoro Dojo&lt;/li&gt;
-&lt;li&gt;Vera Mariano Guillermo de Kokoro Dojo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;para 3º Dan:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;El Instructor de Río IV Diego Hefty&lt;/li&gt;
-&lt;li&gt;El Instructor de San Francisco Gustavo Saldaña&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;También presenciamos la Promoción a 4º Dan de  Nuestro conocido
-Carlos Hernández.&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160801-agrandamos-la-lista-de-danes/</guid>
+      <description>El sábado 30 de Julio participamos en el clásico Seminario de Invierno de Nuestra Asociación, el mismo contó con la conducción y clases por Nuestro Sensei Raúl Medina. También pudimos disfrutar de técnicas mostradas por Sensei Daniel Medina y Shidoin Juan José Trakál.
+En el cierre del mismo pudimos disfrutar de los exámenes para 1º Dan de Nuestra casa Central:
+ Arrascaeta Roberto Schvezov Sergio  de Kokoro Dojo:
+ Argañaraz Javier Gandini Andrés Ganancias Luz Sosa Rodolfo Carmona Diego Bolaños Castro Pablo Sarmiento Paz Fernando  para 2º Dan de:</description>
     </item>
     
     <item>
       <title>El Evento del Semestre</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160608-El-evento-del-semestre/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160608-el-evento-del-semestre/</link>
       <pubDate>Fri, 10 Jun 2016 19:17:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160608-El-evento-del-semestre/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;NOTA&lt;/strong&gt; por razones de fuerza mayor fuera del alcance de la &lt;strong&gt;Asociación
-Cordobesa de Aikido&lt;/strong&gt; el seminario no se llevará a cabo en el &lt;em&gt;Sindicato
-SMATA&lt;/em&gt; sino en el Dojo de la &lt;strong&gt;Asociación Cordobesa de Aikido&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ya está cerca el día, para que podamos disfrutar del Seminario Internacional
-de &lt;strong&gt;Peter Bernath Sensei&lt;/strong&gt;, 7º Dan Aikikai.&lt;/p&gt;
-
-&lt;p&gt;Será este sábado 11 y domingo 12 de Junio. Es el evento más importante de la
-primnera mitad del año, y esperamos tu participación.&lt;/p&gt;
-
-&lt;p&gt;El seminario se llevará a cabo en el dojo de la &lt;strong&gt;Asociación Cordobesa de
-Aikido&lt;/strong&gt; ubicado en la Avenida Velez Sarfield al 910 en la ciudad de
-Córdoba el Sábado de 09.00 a 11.00 hs. y 16.00 a 18.00 hs. Las acreditaciones
-se harán desde las 08.00 hs.  El día Domingo continúa el Seminario de 10.00 a
-12.00 hs.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160611.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160608-el-evento-del-semestre/</guid>
+      <description>NOTA por razones de fuerza mayor fuera del alcance de la Asociación Cordobesa de Aikido el seminario no se llevará a cabo en el Sindicato SMATA sino en el Dojo de la Asociación Cordobesa de Aikido.
+Ya está cerca el día, para que podamos disfrutar del Seminario Internacional de Peter Bernath Sensei, 7º Dan Aikikai.
+Será este sábado 11 y domingo 12 de Junio. Es el evento más importante de la primnera mitad del año, y esperamos tu participación.</description>
     </item>
     
     <item>
       <title>Seminarios próximos</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160412-Seminario-proximos/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160412-seminario-proximos/</link>
       <pubDate>Tue, 12 Apr 2016 17:23:23 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160412-Seminario-proximos/</guid>
-      <description>&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160416.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160611.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160903.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160412-seminario-proximos/</guid>
+      <description>    </description>
     </item>
     
     <item>
       <title>Arranca un nuevo año</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160111-Arranca-un-nuevo-ano/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160111-arranca-un-nuevo-ano/</link>
       <pubDate>Mon, 11 Jan 2016 15:05:12 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160111-Arranca-un-nuevo-ano/</guid>
-      <description>&lt;p&gt;Comenzó la actividad del 2016, la cual no sufrirá alteraciones durante el
-verano por lo que todos los practicantes podrán disfrutar de las Clases sin
-restricciones.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/photos/20160111-01.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Recuerden que los días jueves en el horario de las 19:45 hs a
-las 20:45 hs se realizarán prácticas intensivas para Danes y 1º kiu con el fin
-de brindar una práctica intensa en un ambiente seguro para todos.&lt;/p&gt;
-
-&lt;p&gt;Seguimos con Nuestro Canal de YouTube AikidoCordoba se encuentra una amplia
-demostración de técnicas, maestros y momentos importantes para el Aikido de
-Córdoba. También les comentamos que pueden acceder a estos videos desde la
-&lt;a href=&#34;http://aikidoaikido.com.ar/videos&#34;&gt;página web de la Asociación&lt;/a&gt;.
-Esta semana les invitamos a disfrutar del siguiente video, esperamos lo
-disfruten:&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kUD3HzI-K24&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Prepárense Aikidokas ya que este 2016 se encuentra a pleno de actividades
-tanto Nacionales como Internacionales, ya que con un gran esfuerzo de todos
-podremos traer a Córdoba a grandes figuras del Aikido mundial.&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160111-arranca-un-nuevo-ano/</guid>
+      <description>Comenzó la actividad del 2016, la cual no sufrirá alteraciones durante el verano por lo que todos los practicantes podrán disfrutar de las Clases sin restricciones.
+ Recuerden que los días jueves en el horario de las 19:45 hs a las 20:45 hs se realizarán prácticas intensivas para Danes y 1º kiu con el fin de brindar una práctica intensa en un ambiente seguro para todos.
+Seguimos con Nuestro Canal de YouTube AikidoCordoba se encuentra una amplia demostración de técnicas, maestros y momentos importantes para el Aikido de Córdoba.</description>
     </item>
     
     <item>
       <title>Clase de danes de Noviembre</title>
-      <link>http://www.aikidoaikido.com.ar/news/20151109-Clase-de-danes-pasado/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20151109-clase-de-danes-pasado/</link>
       <pubDate>Mon, 09 Nov 2015 12:38:20 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20151109-Clase-de-danes-pasado/</guid>
-      <description>&lt;p&gt;El pasado 7 de Noviembre se ha llevado a cabo la penúltima clase del año, acompañamos una imagen del cierre de la clase.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/12194555_1075289562490641_1063653961342921327_o.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20151109-clase-de-danes-pasado/</guid>
+      <description>El pasado 7 de Noviembre se ha llevado a cabo la penúltima clase del año, acompañamos una imagen del cierre de la clase.
+ </description>
     </item>
     
     <item>
       <title>Visitando el Hombu Dojo</title>
-      <link>http://www.aikidoaikido.com.ar/news/20150704-Visitando-el-Hombu-Dojo/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20150704-visitando-el-hombu-dojo/</link>
       <pubDate>Sat, 04 Jul 2015 12:38:20 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20150704-Visitando-el-Hombu-Dojo/</guid>
-      <description>&lt;p&gt;El practicante de Aikido perteneciente a la Asociación, Gustavo Saldaña, ha
-aterrizado en Japón y fue a tomar clases con los grandes Maestros de Hombu Dojo
-incluso con el Doshu Moriteru Ueshiba.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/people/Gustavo%20Guillermo%20Salda%c3%b1a.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20150704-visitando-el-hombu-dojo/</guid>
+      <description>El practicante de Aikido perteneciente a la Asociación, Gustavo Saldaña, ha aterrizado en Japón y fue a tomar clases con los grandes Maestros de Hombu Dojo incluso con el Doshu Moriteru Ueshiba.
+ </description>
     </item>
     
     <item>
       <title>Entrevista en Mundo D</title>
-      <link>http://www.aikidoaikido.com.ar/news/201506-Entrevista-en-Mundo-D/</link>
+      <link>http://www.aikidoaikido.com.ar/news/201506-entrevista-en-mundo-d/</link>
       <pubDate>Fri, 19 Jun 2015 11:54:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/201506-Entrevista-en-Mundo-D/</guid>
-      <description>&lt;p&gt;Mundo D ha entrevistado al Sensei Raúl Medina y María Eugenia Cataldo.&lt;/p&gt;
-
-&lt;iframe width=&#34;100%&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/AfE4LiT05sU&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/1.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/2.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/3.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/4.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/5.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/6.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/7.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/news/201506-mundod/8.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/201506-entrevista-en-mundo-d/</guid>
+      <description>Mundo D ha entrevistado al Sensei Raúl Medina y María Eugenia Cataldo.
+          </description>
     </item>
     
     <item>
       <title>Seminario y exámenes de Kyu</title>
-      <link>http://www.aikidoaikido.com.ar/news/201506-Seminario-y-examenes-de-Kyu/</link>
+      <link>http://www.aikidoaikido.com.ar/news/201506-seminario-y-examenes-de-kyu/</link>
       <pubDate>Mon, 15 Jun 2015 05:51:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/201506-Seminario-y-examenes-de-Kyu/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/201506_seminario_y_examenes/foto_grupal.jpg&#34; alt=&#34;Foto grupal&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Foto grupal
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;El sábado 6 de Junio del corriente año se llevo a cabo un Seminario dictado for
-el Sensei Raúl Marcial Medina, en el cual se han tomado examenes de segundo,
-tercer, cuarto y quinto Kyu en base a un tribunal integrado por Raúl Marcial
-Medina Franck 6to. Dan, Juan J Trakal 4to. Dan y José Delgado 3er, Dan&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/201506_seminario_y_examenes/foto_examinados.jpg&#34; alt=&#34;Practicantes que presentaron examen&#34; /&gt;
-    
-    
-    &lt;figcaption&gt;
-        &lt;p&gt;
-        Practicantes que presentaron examen
-        
-            
-        
-        &lt;/p&gt; 
-    &lt;/figcaption&gt;
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;La nómina de graduados es:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;5° kiu
-
-&lt;ul&gt;
-&lt;li&gt;Carla Andrea Melideo&lt;/li&gt;
-&lt;li&gt;Tomas Gudiño&lt;/li&gt;
-&lt;li&gt;Claudio Bulacio&lt;/li&gt;
-&lt;li&gt;Jose Virzi&lt;/li&gt;
-&lt;li&gt;Joel Quinteros&lt;/li&gt;
-&lt;li&gt;Maximiliano Pedrosa&lt;/li&gt;
-&lt;li&gt;Paula Sterbeng&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;4° kiu
-
-&lt;ul&gt;
-&lt;li&gt;Jonathan Peñafiel Suarez&lt;/li&gt;
-&lt;li&gt;Daniel Polzella&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;3° kiu
-
-&lt;ul&gt;
-&lt;li&gt;Gustavo Giunta&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;li&gt;2° kiu
-
-&lt;ul&gt;
-&lt;li&gt;Luciana Medina&lt;/li&gt;
-&lt;/ul&gt;&lt;/li&gt;
-&lt;/ul&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/201506-seminario-y-examenes-de-kyu/</guid>
+      <description>Foto grupal   El sábado 6 de Junio del corriente año se llevo a cabo un Seminario dictado for el Sensei Raúl Marcial Medina, en el cual se han tomado examenes de segundo, tercer, cuarto y quinto Kyu en base a un tribunal integrado por Raúl Marcial Medina Franck 6to. Dan, Juan J Trakal 4to. Dan y José Delgado 3er, Dan
+  Practicantes que presentaron examen   La nómina de graduados es:</description>
     </item>
     
     <item>
       <title>Despedimos a Chiba Shihan</title>
-      <link>http://www.aikidoaikido.com.ar/news/20150606-Despedimos-a-Chiba-Shihan/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20150606-despedimos-a-chiba-shihan/</link>
       <pubDate>Sat, 06 Jun 2015 14:23:23 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20150606-Despedimos-a-Chiba-Shihan/</guid>
-      <description>
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/people/Kazuo_Chiba.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;En el día de ayer nos dejó de forma física Kazuo Chiba Shihan, a los 75 años de
-edad. Nació en 1940, y se convirtió en Uchi Deshi a los 18 años de edad, con
-más de 50 años de práctica y alcanzando el 8º Dan formó parte de los pilares
-fundamentales del Aikido mundial. Enseño Aikido en el Reino Unido y Europa, fue
-Secretario Internacional de Hombu Dojo y de la Federación Internacional de
-Aikido; en 1981 se mudó a San Diego, Estados Unidos para transformarse en el
-Director General de San Diego Aikikai. Lo despedimos Shihan!.&lt;/p&gt;
-
-&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/Kazuo_Chiba_O_Sensei.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20150606-despedimos-a-chiba-shihan/</guid>
+      <description>En el día de ayer nos dejó de forma física Kazuo Chiba Shihan, a los 75 años de edad. Nació en 1940, y se convirtió en Uchi Deshi a los 18 años de edad, con más de 50 años de práctica y alcanzando el 8º Dan formó parte de los pilares fundamentales del Aikido mundial. Enseño Aikido en el Reino Unido y Europa, fue Secretario Internacional de Hombu Dojo y de la Federación Internacional de Aikido; en 1981 se mudó a San Diego, Estados Unidos para transformarse en el Director General de San Diego Aikikai.</description>
     </item>
     
   </channel>

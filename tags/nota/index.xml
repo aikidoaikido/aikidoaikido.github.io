@@ -1,12 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/tags/nota/index.xml</link>
-    <description>Recent content on Asociación Cordobesa de Aikido</description>
+    <title>Nota on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/tags/nota/</link>
+    <description>Recent content in Nota on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <atom:link href="http://www.aikidoaikido.com.ar/tags/nota/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 18 Oct 2014 10:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.aikidoaikido.com.ar/tags/nota/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Entrevista de La 580 Deportiva de Radio Universidad</title>
@@ -14,15 +17,9 @@
       <pubDate>Sat, 18 Oct 2014 10:00:00 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141021_nota_radio/</guid>
-      <description>&lt;p&gt;Sensei Raúl Medina fue entrevistado por &lt;a href=&#34;https://www.facebook.com/ruben.diliddo&#34;&gt;Rubén Di Liddo&lt;/a&gt;
-en el programa &lt;strong&gt;La 580 Deportiva&lt;/strong&gt; de &lt;em&gt;&lt;a href=&#34;https://www.facebook.com/Am580RadioUniversidad&#34;&gt;Radio Universidad&lt;/a&gt;&lt;/em&gt;.&lt;/p&gt;
-
-&lt;p&gt;Se habló de nuestra presencia en el Summer Camp de este año y de las actividades de la Asociación en general.&lt;/p&gt;
-
-&lt;iframe allowfullscreen=&#34;&#34; frameborder=&#34;0&#34; height=&#34;315&#34; src=&#34;//www.youtube.com/embed/ZNjzUb72h6s&#34; width=&#34;600&#34;&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Aquí el artículo en el &lt;a href=&#34;http://la580deportiva.blogspot.com.ar/2014/10/aikido-nota-raul-medina.html&#34;&gt;blog del programa&lt;/a&gt;&lt;/p&gt;
-</description>
+      <description>Sensei Raúl Medina fue entrevistado por Rubén Di Liddo en el programa La 580 Deportiva de Radio Universidad.
+Se habló de nuestra presencia en el Summer Camp de este año y de las actividades de la Asociación en general.
+ Aquí el artículo en el blog del programa</description>
     </item>
     
   </channel>

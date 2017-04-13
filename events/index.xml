@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Events-rsses on Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/events/index.xml</link>
-    <description>Recent content in Events-rsses on Asociación Cordobesa de Aikido</description>
+    <title>Events on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/events/</link>
+    <description>Recent content in Events on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
     <lastBuildDate>Sat, 07 Nov 2015 16:00:00 +0000</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/events/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="http://www.aikidoaikido.com.ar/events/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Clase de Danes de Agosto</title>
@@ -15,26 +17,8 @@
       <pubDate>Sat, 07 Nov 2015 16:00:00 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/events/20151107_clase_danes/</guid>
-      <description>
-
-&lt;p&gt;El sábado 7 de Noviembre se llevará a cabo la Clase de Danes del mes, con la
-modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa
-Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck
-Sensei 6º Dan.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/hakama.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> El sábado 7 de Noviembre se llevará a cabo la Clase de Danes del mes, con la modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck Sensei 6º Dan.
+ Como llegar  </description>
     </item>
     
   </channel>

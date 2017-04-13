@@ -2,259 +2,104 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Asociación Cordobesa de Aikido</title>
-    <link>http://www.aikidoaikido.com.ar/index.xml</link>
+    <link>http://www.aikidoaikido.com.ar/</link>
     <description>Recent content on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 22 Dec 2016 12:49:09 -0300</lastBuildDate>
-    <atom:link href="http://www.aikidoaikido.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Apr 2017 16:38:26 -0300</lastBuildDate>
+    
+	<atom:link href="http://www.aikidoaikido.com.ar/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Numa Doro</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/numa_doro/</link>
+      <pubDate>Thu, 13 Apr 2017 16:38:26 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/numa_doro/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Felices Fiestas</title>
-      <link>http://www.aikidoaikido.com.ar/news/Felices-Fiestas/</link>
+      <link>http://www.aikidoaikido.com.ar/news/felices-fiestas/</link>
       <pubDate>Thu, 22 Dec 2016 12:49:09 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Felices-Fiestas/</guid>
-      <description>&lt;p&gt;Desde la Ascociación Cordobesa de Aikido les deseamos &lt;strong&gt;felices
-fiestas&lt;/strong&gt; a todos los practicantes y allegados a la
-Asociación Cordobesa de Aikido.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/christmas-tree.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Se les recuerda que hoy se celebrará este fin de año en una cena
-a la que estan invitados todos, para más información dirigirse al
-Dojo. Por este motivo, se comunica que únicamente habrá prácticas
-de Aikido en el horario de la tarde de 18:30 a 19:30.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Felíz Navidad y Año Nuevo.&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/felices-fiestas/</guid>
+      <description>Desde la Ascociación Cordobesa de Aikido les deseamos felices fiestas a todos los practicantes y allegados a la Asociación Cordobesa de Aikido.
+ Se les recuerda que hoy se celebrará este fin de año en una cena a la que estan invitados todos, para más información dirigirse al Dojo. Por este motivo, se comunica que únicamente habrá prácticas de Aikido en el horario de la tarde de 18:30 a 19:30.</description>
     </item>
     
     <item>
       <title>Clase especial a beneficio</title>
-      <link>http://www.aikidoaikido.com.ar/news/Clase-especial-a-beneficio/</link>
+      <link>http://www.aikidoaikido.com.ar/news/clase-especial-a-beneficio/</link>
       <pubDate>Mon, 21 Nov 2016 10:48:25 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Clase-especial-a-beneficio/</guid>
-      <description>&lt;p&gt;El sábado 26 de Noviembre se realizará una Clase Especial a
-beneficio de un compañero que necesita nuestro apoyo. La misma
-contará con clases dictadas por los distintos instructores de la
-Asociación que mostrarán una amplia variedad de técnicas. El costo
-es de $100 y será utilizado para colaborar con
-Nuestro compañero, no faltes.&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/clase-especial-a-beneficio/</guid>
+      <description>El sábado 26 de Noviembre se realizará una Clase Especial a beneficio de un compañero que necesita nuestro apoyo. La misma contará con clases dictadas por los distintos instructores de la Asociación que mostrarán una amplia variedad de técnicas. El costo es de $100 y será utilizado para colaborar con Nuestro compañero, no faltes.</description>
     </item>
     
     <item>
       <title>Seminario y Exámenes en San Francisco, Córdoba</title>
-      <link>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</link>
+      <link>http://www.aikidoaikido.com.ar/news/seminario-en-san-francisco/</link>
       <pubDate>Wed, 26 Oct 2016 17:17:51 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Seminario-en-San-Francisco/</guid>
-      <description>&lt;p&gt;Se recuerda a los practicantes de Aikido que el próximo 29 de Octubre
-se llevará a cabo un Seminario y Exámenes de Aikido en ciudad de
-San Francisco, Córdoba dictado por el Sensei Raúl Marcial Medina Franck.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20161029.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/seminario-en-san-francisco/</guid>
+      <description>Se recuerda a los practicantes de Aikido que el próximo 29 de Octubre se llevará a cabo un Seminario y Exámenes de Aikido en ciudad de San Francisco, Córdoba dictado por el Sensei Raúl Marcial Medina Franck.
+ </description>
     </item>
     
     <item>
       <title>Seminario en La Rioja</title>
-      <link>http://www.aikidoaikido.com.ar/news/Seminario-en-La-Rioja/</link>
+      <link>http://www.aikidoaikido.com.ar/news/seminario-en-la-rioja/</link>
       <pubDate>Thu, 29 Sep 2016 17:17:51 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/Seminario-en-La-Rioja/</guid>
-      <description>&lt;p&gt;Se recuerda a los practicantes de Aikido que el próximo 15 de Octubre
-se llevará a cabo un Seminario Nacional en La Rioja dictado por el Sensei
-Raúl Medina.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20161015.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/seminario-en-la-rioja/</guid>
+      <description>Se recuerda a los practicantes de Aikido que el próximo 15 de Octubre se llevará a cabo un Seminario Nacional en La Rioja dictado por el Sensei Raúl Medina.
+ </description>
     </item>
     
     <item>
       <title>Agrandamos la lista de Danes</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160801-Agrandamos-la-lista-de-Danes/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160801-agrandamos-la-lista-de-danes/</link>
       <pubDate>Mon, 01 Aug 2016 19:17:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160801-Agrandamos-la-lista-de-Danes/</guid>
-      <description>&lt;p&gt;El sábado 30 de Julio participamos en el clásico Seminario de Invierno
-de Nuestra Asociación, el mismo contó con la conducción y clases por
-Nuestro Sensei Raúl Medina. También pudimos disfrutar de técnicas mostradas
-por Sensei Daniel Medina y Shidoin Juan José Trakál.&lt;/p&gt;
-
-&lt;p&gt;En el cierre del mismo pudimos disfrutar de los exámenes  para 1º Dan de
-Nuestra casa Central:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Arrascaeta Roberto&lt;/li&gt;
-&lt;li&gt;Schvezov Sergio&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;de Kokoro Dojo:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Argañaraz Javier&lt;/li&gt;
-&lt;li&gt;Gandini Andrés&lt;/li&gt;
-&lt;li&gt;Ganancias Luz&lt;/li&gt;
-&lt;li&gt;Sosa Rodolfo&lt;/li&gt;
-&lt;li&gt;Carmona Diego&lt;/li&gt;
-&lt;li&gt;Bolaños Castro Pablo&lt;/li&gt;
-&lt;li&gt;Sarmiento Paz Fernando&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;para 2º Dan de:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Eugenia Izquierdo de nuestro Dojo en Buenos Aires&lt;/li&gt;
-&lt;li&gt;Rizo Gustavo de Catamarca&lt;/li&gt;
-&lt;li&gt;Roberto Urriza de Casa Central&lt;/li&gt;
-&lt;li&gt;Gustavino Florencia de Kokoro Dojo&lt;/li&gt;
-&lt;li&gt;Vera Mariano Guillermo de Kokoro Dojo&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;para 3º Dan:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;El Instructor de Río IV Diego Hefty&lt;/li&gt;
-&lt;li&gt;El Instructor de San Francisco Gustavo Saldaña&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;También presenciamos la Promoción a 4º Dan de  Nuestro conocido
-Carlos Hernández.&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160801-agrandamos-la-lista-de-danes/</guid>
+      <description>El sábado 30 de Julio participamos en el clásico Seminario de Invierno de Nuestra Asociación, el mismo contó con la conducción y clases por Nuestro Sensei Raúl Medina. También pudimos disfrutar de técnicas mostradas por Sensei Daniel Medina y Shidoin Juan José Trakál.
+En el cierre del mismo pudimos disfrutar de los exámenes para 1º Dan de Nuestra casa Central:
+ Arrascaeta Roberto Schvezov Sergio  de Kokoro Dojo:
+ Argañaraz Javier Gandini Andrés Ganancias Luz Sosa Rodolfo Carmona Diego Bolaños Castro Pablo Sarmiento Paz Fernando  para 2º Dan de:</description>
     </item>
     
     <item>
       <title>El Evento del Semestre</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160608-El-evento-del-semestre/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160608-el-evento-del-semestre/</link>
       <pubDate>Fri, 10 Jun 2016 19:17:27 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160608-El-evento-del-semestre/</guid>
-      <description>
-
-&lt;p&gt;&lt;strong&gt;NOTA&lt;/strong&gt; por razones de fuerza mayor fuera del alcance de la &lt;strong&gt;Asociación
-Cordobesa de Aikido&lt;/strong&gt; el seminario no se llevará a cabo en el &lt;em&gt;Sindicato
-SMATA&lt;/em&gt; sino en el Dojo de la &lt;strong&gt;Asociación Cordobesa de Aikido&lt;/strong&gt;.&lt;/p&gt;
-
-&lt;p&gt;Ya está cerca el día, para que podamos disfrutar del Seminario Internacional
-de &lt;strong&gt;Peter Bernath Sensei&lt;/strong&gt;, 7º Dan Aikikai.&lt;/p&gt;
-
-&lt;p&gt;Será este sábado 11 y domingo 12 de Junio. Es el evento más importante de la
-primnera mitad del año, y esperamos tu participación.&lt;/p&gt;
-
-&lt;p&gt;El seminario se llevará a cabo en el dojo de la &lt;strong&gt;Asociación Cordobesa de
-Aikido&lt;/strong&gt; ubicado en la Avenida Velez Sarfield al 910 en la ciudad de
-Córdoba el Sábado de 09.00 a 11.00 hs. y 16.00 a 18.00 hs. Las acreditaciones
-se harán desde las 08.00 hs.  El día Domingo continúa el Seminario de 10.00 a
-12.00 hs.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160611.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;400&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160608-el-evento-del-semestre/</guid>
+      <description>NOTA por razones de fuerza mayor fuera del alcance de la Asociación Cordobesa de Aikido el seminario no se llevará a cabo en el Sindicato SMATA sino en el Dojo de la Asociación Cordobesa de Aikido.
+Ya está cerca el día, para que podamos disfrutar del Seminario Internacional de Peter Bernath Sensei, 7º Dan Aikikai.
+Será este sábado 11 y domingo 12 de Junio. Es el evento más importante de la primnera mitad del año, y esperamos tu participación.</description>
     </item>
     
     <item>
       <title>Seminarios próximos</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160412-Seminario-proximos/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160412-seminario-proximos/</link>
       <pubDate>Tue, 12 Apr 2016 17:23:23 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160412-Seminario-proximos/</guid>
-      <description>&lt;p&gt;
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160416.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160611.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20160903.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160412-seminario-proximos/</guid>
+      <description>    </description>
     </item>
     
     <item>
       <title>Arranca un nuevo año</title>
-      <link>http://www.aikidoaikido.com.ar/news/20160111-Arranca-un-nuevo-ano/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20160111-arranca-un-nuevo-ano/</link>
       <pubDate>Mon, 11 Jan 2016 15:05:12 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20160111-Arranca-un-nuevo-ano/</guid>
-      <description>&lt;p&gt;Comenzó la actividad del 2016, la cual no sufrirá alteraciones durante el
-verano por lo que todos los practicantes podrán disfrutar de las Clases sin
-restricciones.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/photos/20160111-01.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;p&gt;Recuerden que los días jueves en el horario de las 19:45 hs a
-las 20:45 hs se realizarán prácticas intensivas para Danes y 1º kiu con el fin
-de brindar una práctica intensa en un ambiente seguro para todos.&lt;/p&gt;
-
-&lt;p&gt;Seguimos con Nuestro Canal de YouTube AikidoCordoba se encuentra una amplia
-demostración de técnicas, maestros y momentos importantes para el Aikido de
-Córdoba. También les comentamos que pueden acceder a estos videos desde la
-&lt;a href=&#34;http://aikidoaikido.com.ar/videos&#34;&gt;página web de la Asociación&lt;/a&gt;.
-Esta semana les invitamos a disfrutar del siguiente video, esperamos lo
-disfruten:&lt;/p&gt;
-
-&lt;iframe width=&#34;560&#34; height=&#34;315&#34; src=&#34;https://www.youtube.com/embed/kUD3HzI-K24&#34; frameborder=&#34;0&#34; allowfullscreen&gt;&lt;/iframe&gt;
-
-&lt;p&gt;Prepárense Aikidokas ya que este 2016 se encuentra a pleno de actividades
-tanto Nacionales como Internacionales, ya que con un gran esfuerzo de todos
-podremos traer a Córdoba a grandes figuras del Aikido mundial.&lt;/p&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20160111-arranca-un-nuevo-ano/</guid>
+      <description>Comenzó la actividad del 2016, la cual no sufrirá alteraciones durante el verano por lo que todos los practicantes podrán disfrutar de las Clases sin restricciones.
+ Recuerden que los días jueves en el horario de las 19:45 hs a las 20:45 hs se realizarán prácticas intensivas para Danes y 1º kiu con el fin de brindar una práctica intensa en un ambiente seguro para todos.
+Seguimos con Nuestro Canal de YouTube AikidoCordoba se encuentra una amplia demostración de técnicas, maestros y momentos importantes para el Aikido de Córdoba.</description>
     </item>
     
     <item>
@@ -263,24 +108,9 @@ podremos traer a Córdoba a grandes figuras del Aikido mundial.&lt;/p&gt;
       <pubDate>Wed, 06 Jan 2016 13:18:04 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/agenda/</guid>
-      <description>
-
-&lt;p&gt;La Asociación Cordobesa de Aikido y demás organizaciones adheridas
-desarrollarán gran actividad en Seminarios tanto en Córdoba, como en el
-interior del país y aún del exterior.&lt;/p&gt;
-
-&lt;p&gt;A continuación se listan las actividades previstas para lo que resta del año.
-La información sobre cada actividad se irá ampliando y actualizando a medida
-que se disponga de la misma.&lt;/p&gt;
-
-&lt;h2 id=&#34;clases&#34;&gt;Clases&lt;/h2&gt;
-
-&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showCalendars=0&amp;amp;mode=WEEK&amp;amp;height=600&amp;amp;wkst=1&amp;amp;hl=es_419&amp;amp;bgcolor=%23ffffff&amp;amp;src=mnqjpie8ks2ub10ap2q6dh3kuk%40group.calendar.google.com&amp;amp;color=%232952A3&amp;amp;ctz=America%2FArgentina%2FBuenos_Aires&#34; style=&#34;border-width:0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-
-&lt;h2 id=&#34;seminarios&#34;&gt;Seminarios&lt;/h2&gt;
-
-&lt;iframe src=&#34;https://calendar.google.com/calendar/embed?showTitle=0&amp;amp;showCalendars=0&amp;amp;mode=AGENDA&amp;amp;height=600&amp;amp;wkst=1&amp;amp;hl=es_419&amp;amp;bgcolor=%23FFFFFF&amp;amp;src=ba5jda3ik24n5msns5vr5t1d8s%40group.calendar.google.com&amp;amp;color=%23182C57&amp;amp;ctz=America%2FArgentina%2FBuenos_Aires&#34; style=&#34;border-width:0&#34; width=&#34;100%&#34; height=&#34;600&#34; frameborder=&#34;0&#34; scrolling=&#34;no&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> La Asociación Cordobesa de Aikido y demás organizaciones adheridas desarrollarán gran actividad en Seminarios tanto en Córdoba, como en el interior del país y aún del exterior.
+A continuación se listan las actividades previstas para lo que resta del año. La información sobre cada actividad se irá ampliando y actualizando a medida que se disponga de la misma.
+Clases  Seminarios  </description>
     </item>
     
     <item>
@@ -289,27 +119,17 @@ que se disponga de la misma.&lt;/p&gt;
       <pubDate>Wed, 06 Jan 2016 13:18:04 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/videos/</guid>
-      <description>&lt;div id=&#34;youmax&#34; class=&#34;youmax&#34;&gt;&lt;/div&gt; 
-</description>
+      <description> </description>
     </item>
     
     <item>
       <title>Clase de danes de Noviembre</title>
-      <link>http://www.aikidoaikido.com.ar/news/20151109-Clase-de-danes-pasado/</link>
+      <link>http://www.aikidoaikido.com.ar/news/20151109-clase-de-danes-pasado/</link>
       <pubDate>Mon, 09 Nov 2015 12:38:20 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/news/20151109-Clase-de-danes-pasado/</guid>
-      <description>&lt;p&gt;El pasado 7 de Noviembre se ha llevado a cabo la penúltima clase del año, acompañamos una imagen del cierre de la clase.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;https://fbcdn-sphotos-a-a.akamaihd.net/hphotos-ak-xfa1/t31.0-8/12194555_1075289562490641_1063653961342921327_o.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-</description>
+      <guid>http://www.aikidoaikido.com.ar/news/20151109-clase-de-danes-pasado/</guid>
+      <description>El pasado 7 de Noviembre se ha llevado a cabo la penúltima clase del año, acompañamos una imagen del cierre de la clase.
+ </description>
     </item>
     
     <item>
@@ -318,26 +138,8 @@ que se disponga de la misma.&lt;/p&gt;
       <pubDate>Sat, 07 Nov 2015 16:00:00 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/events/20151107_clase_danes/</guid>
-      <description>
-
-&lt;p&gt;El sábado 7 de Noviembre se llevará a cabo la Clase de Danes del mes, con la
-modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa
-Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck
-Sensei 6º Dan.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/hakama.jpg&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h4 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h4&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
+      <description> El sábado 7 de Noviembre se llevará a cabo la Clase de Danes del mes, con la modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck Sensei 6º Dan.
+ Como llegar  </description>
     </item>
     
     <item>
@@ -346,35 +148,17 @@ Sensei 6º Dan.&lt;/p&gt;
       <pubDate>Mon, 26 Oct 2015 21:51:45 -0300</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/dojos/kudo/</guid>
-      <description></description>
+      <description> Horarios     Lunes Martes Miércoles Jueves Viernes Sábados     19:30-20:30 AIKIDO  AIKIDO  AIKIDO    19:30-20:30 NIÑOS  NIÑOS  NIÑOS    20:30-21:30 AIKIDO  AIKIDO  AIKIDO    21:30-23:00 AIKIDO  AIKIDO  AIKIDO    14:30-16:00      AIKIDO    </description>
     </item>
     
     <item>
       <title>Clase de Defensa Personal para Mujeres</title>
-      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150912-Clase-de-Defensa-Personal-para-Mujeres/</link>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150912-clase-de-defensa-personal-para-mujeres/</link>
       <pubDate>Sat, 12 Sep 2015 13:16:00 -0300</pubDate>
       
-      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150912-Clase-de-Defensa-Personal-para-Mujeres/</guid>
-      <description>
-
-&lt;p&gt;El dia Sabado 12 de Septiembre a las 16:00 se llevara a cabo una clase de
-defensa personal para mujeres dictado por el Sensei Raul Marcial Medina Franck,
-6to Dan de Aikido, 6to Dan de Judo y 5to Dan de Jiu Jitsu. Estan todos
-invitados, sean o no practicantes del dojo.&lt;/p&gt;
-
-
-&lt;figure &gt;
-    
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_clase_defensa_mujeres_20150912.png&#34; /&gt;
-    
-    
-&lt;/figure&gt;
-
-
-&lt;h3 id=&#34;como-llegar&#34;&gt;Como llegar&lt;/h3&gt;
-
-&lt;iframe src=&#34;https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3404.573968701656!2d-64.191565!3d-31.425862!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x9432a28892a73dd1%3A0x4104a66357705427!2sAsociaci%C3%B3n+Cordobesa+de+Aikido!5e0!3m2!1sen!2sar!4v1411526711640&#34; width=&#34;100%&#34; height=&#34;300&#34; frameborder=&#34;0&#34; style=&#34;border:0&#34;&gt;&lt;/iframe&gt;
-</description>
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150912-clase-de-defensa-personal-para-mujeres/</guid>
+      <description> El dia Sabado 12 de Septiembre a las 16:00 se llevara a cabo una clase de defensa personal para mujeres dictado por el Sensei Raul Marcial Medina Franck, 6to Dan de Aikido, 6to Dan de Judo y 5to Dan de Jiu Jitsu. Estan todos invitados, sean o no practicantes del dojo.
+ Como llegar  </description>
     </item>
     
     <item>
@@ -383,21 +167,727 @@ invitados, sean o no practicantes del dojo.&lt;/p&gt;
       <pubDate>Sat, 29 Aug 2015 09:00:00 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150829_seminario_internacional/</guid>
-      <description>&lt;p&gt;Los días 29 y 30 de Agosto se llevará a cabo el Seminario Internacional dictado
-por Philip Berrios Sensei. El mismo se dictará durante todo el sábado y hasta
-el medio día del domingo, recordamos a los participantes que la inscripción al
-Seminario incluya la cena de cordialidad que habitualmente acompañan a estos
-eventos.&lt;/p&gt;
-
-
-&lt;figure &gt;
+      <description>Los días 29 y 30 de Agosto se llevará a cabo el Seminario Internacional dictado por Philip Berrios Sensei. El mismo se dictará durante todo el sábado y hasta el medio día del domingo, recordamos a los participantes que la inscripción al Seminario incluya la cena de cordialidad que habitualmente acompañan a estos eventos.
+ </description>
+    </item>
     
-        &lt;img src=&#34;http://www.aikidoaikido.com.ar/images/events/poster_seminario_20150829.jpg&#34; /&gt;
+    <item>
+      <title>Seminario de Aikido</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150821-seminario-de-aikido/</link>
+      <pubDate>Fri, 21 Aug 2015 20:00:00 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150821-seminario-de-aikido/</guid>
+      <description>Se invita a un charla libre y gratiuta el Viernes 21 de Agosto a las 20hs.
+El Sabado 22, habra practicas desta las 10:00 stay 12:30, reotmando a las 14:00 hasta las 16:00.
+ </description>
+    </item>
     
+    <item>
+      <title>Clase Especial y Exámenes</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150808_clase_especial/</link>
+      <pubDate>Sat, 08 Aug 2015 14:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150808_clase_especial/</guid>
+      <description> El día 8 de Agosto del corriente se realizará la Clase Especial y exámenes, la misma se llevará a cabo en la calle Río de Janeiro 869, Gimnasio Plaza Gym, en Villa Allende.
+ Como llegar  </description>
+    </item>
     
-&lt;/figure&gt;
-
-</description>
+    <item>
+      <title>Clase de Danes de Agosto</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150801_clase_danes/</link>
+      <pubDate>Sat, 01 Aug 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150801_clase_danes/</guid>
+      <description> El sábado 1 de Agosto se llevará a cabo la Clase de Danes del mes, con la modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck Sensei 6º Dan.
+ Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Seminario 15 Años de Aikido en Río Cuarto</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150711-seminario-15-a%C3%B1os-de-aikido-en-r%C3%ADo-cuarto/</link>
+      <pubDate>Sat, 11 Jul 2015 09:49:32 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150711-seminario-15-a%C3%B1os-de-aikido-en-r%C3%ADo-cuarto/</guid>
+      <description>Se aproxima el festejo por los XV años del Aikido en Nuestra ciudad hermana de Río IV, y estamos todos invitados a participar en la celebración.
+ </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Julio</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150704_clase_de_danes/</link>
+      <pubDate>Sat, 04 Jul 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150704_clase_de_danes/</guid>
+      <description> El sábado 4 de Julio se llevará a cabo la Clase de Danes del mes, con la modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck Sensei 6º Dan.
+ Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Visitando el Hombu Dojo</title>
+      <link>http://www.aikidoaikido.com.ar/news/20150704-visitando-el-hombu-dojo/</link>
+      <pubDate>Sat, 04 Jul 2015 12:38:20 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/20150704-visitando-el-hombu-dojo/</guid>
+      <description>El practicante de Aikido perteneciente a la Asociación, Gustavo Saldaña, ha aterrizado en Japón y fue a tomar clases con los grandes Maestros de Hombu Dojo incluso con el Doshu Moriteru Ueshiba.
+ </description>
+    </item>
+    
+    <item>
+      <title>Seminario Nacional de Mendoza</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150627_seminario_mendoza/</link>
+      <pubDate>Sat, 27 Jun 2015 08:30:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150627_seminario_mendoza/</guid>
+      <description>Nos preparamos también para el Seminario Nacional de Mendoza el sábado 27 de Junio del corriente año. El mismo se llevará a cabo en Ayacucho 239 en el Gimnasio Municipal Nº3.
+ </description>
+    </item>
+    
+    <item>
+      <title>Entrevista en Mundo D</title>
+      <link>http://www.aikidoaikido.com.ar/news/201506-entrevista-en-mundo-d/</link>
+      <pubDate>Fri, 19 Jun 2015 11:54:27 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/201506-entrevista-en-mundo-d/</guid>
+      <description>Mundo D ha entrevistado al Sensei Raúl Medina y María Eugenia Cataldo.
+          </description>
+    </item>
+    
+    <item>
+      <title>Seminario y exámenes de Kyu</title>
+      <link>http://www.aikidoaikido.com.ar/news/201506-seminario-y-examenes-de-kyu/</link>
+      <pubDate>Mon, 15 Jun 2015 05:51:27 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/201506-seminario-y-examenes-de-kyu/</guid>
+      <description>Foto grupal   El sábado 6 de Junio del corriente año se llevo a cabo un Seminario dictado for el Sensei Raúl Marcial Medina, en el cual se han tomado examenes de segundo, tercer, cuarto y quinto Kyu en base a un tribunal integrado por Raúl Marcial Medina Franck 6to. Dan, Juan J Trakal 4to. Dan y José Delgado 3er, Dan
+  Practicantes que presentaron examen   La nómina de graduados es:</description>
+    </item>
+    
+    <item>
+      <title>Seminario y examen de kyus</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</link>
+      <pubDate>Sat, 13 Jun 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</guid>
+      <description> Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus. Tendrá un costo de 80 pesos para practicantes en general y de 50 para practicantes que rinden.
+ Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Despedimos a Chiba Shihan</title>
+      <link>http://www.aikidoaikido.com.ar/news/20150606-despedimos-a-chiba-shihan/</link>
+      <pubDate>Sat, 06 Jun 2015 14:23:23 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/20150606-despedimos-a-chiba-shihan/</guid>
+      <description>En el día de ayer nos dejó de forma física Kazuo Chiba Shihan, a los 75 años de edad. Nació en 1940, y se convirtió en Uchi Deshi a los 18 años de edad, con más de 50 años de práctica y alcanzando el 8º Dan formó parte de los pilares fundamentales del Aikido mundial. Enseño Aikido en el Reino Unido y Europa, fue Secretario Internacional de Hombu Dojo y de la Federación Internacional de Aikido; en 1981 se mudó a San Diego, Estados Unidos para transformarse en el Director General de San Diego Aikikai.</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Junio</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150606_clase_danes/</link>
+      <pubDate>Sat, 06 Jun 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150606_clase_danes/</guid>
+      <description> El sábado 6 de Junio se llevará a cabo la Clase de Danes del mes, con la modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck Sensei 6º Dan.
+ Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Abril</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150411_clase_danes/</link>
+      <pubDate>Sat, 11 Apr 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150411_clase_danes/</guid>
+      <description>El sábado 11 de Abril se llevará a cabo la Clase de Danes del mes, con la modalidad a la que venimos acostumbrados, a las 16:00 hs en nuestra Casa Central de Av. Vélez Sarsfield. La misma será dictada por Raúl Medina Franck Sensei 6º Dan.</description>
+    </item>
+    
+    <item>
+      <title>Seminario y examen de kyus</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</link>
+      <pubDate>Sat, 28 Mar 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</guid>
+      <description> Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.
+Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Seminario Internacional - Santiago del Estero Aikikai</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150313_seminario_internacional_en_las_termas/</link>
+      <pubDate>Fri, 13 Mar 2015 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150313_seminario_internacional_en_las_termas/</guid>
+      <description>Sensei Raúl Medina junto a practicantes de la Asociación viajaron al Seminario Internacional de Aikido oranizado por Santiago del Estero Aikikai durante los días 13, 14 y 15 de Marzo de 2015.
+  El mismo contó con la visita de Robert Zimmermann Shihan 7° dan, instructor en Jefe de Toronto Aikikai, miembro del Comité Técnico de la USAF.
+Nuestra felicitación a la entidad organizadora, a su lider en Santiago del Estero, el Sensei Leandro y todos sus colaboradores y familiares que hicieron posible tan magnifico evento.</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Febrero</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150307_clase_danes/</link>
+      <pubDate>Sat, 07 Mar 2015 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150307_clase_danes/</guid>
+      <description>El sábado 7 de Marzo se realizará la Clase de Danes del mes correspondiente.
+La misma será en el Dojo central, a cargo de nuestro Sensei Raúl Medina.</description>
+    </item>
+    
+    <item>
+      <title>Inauguración de Kogarashi Dojo</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</link>
+      <pubDate>Sat, 28 Feb 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150228_inauguracion_kogarashi_dojo/</guid>
+      <description>Tras muchos años de práctica y con gran esfuerzo, nuestros queridos fuku shidoines José Delgado y Eugenio Fernández abrieron Kogarashi Dojo, en la zona de Alta Córdoba.
+Siempre que sumamos Dojos es motivo de orgullo para toda la Asociación Cordobesa de Aikido y lo es aún más en este caso particular, por tratarse de maestros tan queridos y experimentados.
+En la inaguración dió una hermosa clase Sensei Raúl Medina y luego tuvo lugar un agradable agasajo por parte de los anfitriones.</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Febrero</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150207_clase_danes/</link>
+      <pubDate>Sat, 07 Feb 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150207_clase_danes/</guid>
+      <description>Con gran concurrencia, el sábado 7 de Febrero se llevó a cabo la primer Clase de Danes del año 2015.
+La misma se realizó en el Dojo central y fue dictada por nuestro Sensei Raúl Medina.</description>
+    </item>
+    
+    <item>
+      <title>Aikido en Mundo D</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150120_federaciones_en_mundo_d/</link>
+      <pubDate>Tue, 20 Jan 2015 18:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150120_federaciones_en_mundo_d/</guid>
+      <description>Sensei Raúl Medina Acompañado del Shidoin Juanjo Trakál hicieron una síntesis de la actividad de Aikido en Córdoba, su pasado y los proyectos venideros.
+ </description>
+    </item>
+    
+    <item>
+      <title>Clase Especial en Buenos Aires</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_clase_especial/</link>
+      <pubDate>Sat, 13 Dec 2014 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_clase_especial/</guid>
+      <description>Dictado por fukushidoin Omar Mazzieri (2do. Dan)
+  fukushidoin Omar Mazzieri   </description>
+    </item>
+    
+    <item>
+      <title>Seminario Fin 2014</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_seminario_fin_de_ano/</link>
+      <pubDate>Sat, 13 Dec 2014 09:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141213_seminario_fin_de_ano/</guid>
+      <description> Convivencia Final de los 30 Años de Aikido en Córdoba Comenzará a las 9 de la mañana y durará todo el día, hasta las 18 horas, con un almuerzo a la canasta y con práctica de aikido por la mañana y por la tarde.
+Con este evento culminarán los festejos por los 30 años de Aikido en Córdoba.
+Costo: 50 pesos.
+Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Diciembre</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141206_clase_danes/</link>
+      <pubDate>Sat, 06 Dec 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141206_clase_danes/</guid>
+      <description>Con mucha energía, camaradería y calor, se realizó la última clase de Danes del año 2014.
+    </description>
+    </item>
+    
+    <item>
+      <title>Seminario y examen de kyus</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141129-seminario-examen-kyus/</link>
+      <pubDate>Sat, 29 Nov 2014 16:40:39 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141129-seminario-examen-kyus/</guid>
+      <description>  Fue dictado por Medina Franck Sensei y luego se tomaron los exámenes de kyus ante una mesa integrada también por Juan Trakal y Jose Delgado.
+   Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Clase Especial en Río Cuarto</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141123_clase_especial/</link>
+      <pubDate>Sun, 23 Nov 2014 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141123_clase_especial/</guid>
+      <description>Dictado por fukushidoin Sergio Rossi (3er. Dan)
+ </description>
+    </item>
+    
+    <item>
+      <title>Clase de Especial en Buenos Aires</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141115_clase_especial_bsas/</link>
+      <pubDate>Sat, 15 Nov 2014 14:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141115_clase_especial_bsas/</guid>
+      <description> Clase especial en Toku-iku dojo, dictada por el fukushidoin Diego Hefty (2do. Dan, instructor visitante desde la ciudad de Río Cuarto, Córdoba).
+ Cómo llegar:  </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Noviembre</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141108_clase_danes/</link>
+      <pubDate>Sat, 08 Nov 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141108_clase_danes/</guid>
+      <description>El sábado 8 de Noviembre se llevó a cabo la Clase de Danes correspondiente a ese mes.
+Para optimizar la concurrencia de tdos los Danes y 1º Kiu la Clase de Danes se trasladó de fecha (antes 1 de Noviembre, finalmente 8 de Noviembre), también el horario se modificó debido a las condiciones climáticas, a las 17 hs.
+La misma se realizó en nuestra casa central sede en Av.</description>
+    </item>
+    
+    <item>
+      <title>Raúl Marcial Medina Franck Sensei</title>
+      <link>http://www.aikidoaikido.com.ar/history/medina-franck-sensei/</link>
+      <pubDate>Fri, 07 Nov 2014 09:20:15 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/history/medina-franck-sensei/</guid>
+      <description>Nació el 16 de julio de 1940 en la ciudad de Frias provincia de Santiago Del Estero, y lo bautizaron con el nombre de Raúl Marcial. A los 15 años se radicó en la ciudad de Córdoba en donde transcurre su vida hasta la actualidad.
+Quizás el nombre de pila Marcial fue premonitorio, lo cierto es que desde muy joven se dedicó con gran ahínco a la práctica del Arte Marcial Judo bajo la dirección de Fushimi Sensei en el Instituto del profesorado en Educación Física.</description>
+    </item>
+    
+    <item>
+      <title>Yoshimitsu Yamada Shihan</title>
+      <link>http://www.aikidoaikido.com.ar/history/yoshimitsu-yamada-shihan/</link>
+      <pubDate>Fri, 07 Nov 2014 09:16:20 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/history/yoshimitsu-yamada-shihan/</guid>
+      <description>Yoshimitsu Yamada nació en la ciudad de Tokio, Japón en 1938. En 1955 ingresó como uchideshi por lo que adquirió sus conocimientos de Aikido directamente del Fundador Morihei Ueshiba. Se formó en el Centro Mundial del Aikido en Tokyo, donde también enseña y luego llevó el Aikido a los Estados Unidos en 1964, para la Feria Mundial en New York. Ha desarrollado la más grande y exitosa escuela de Aikido en los Estados Unidos, el New York Aikikai que forma parte de la United States Aikido Federation.</description>
+    </item>
+    
+    <item>
+      <title>Ueshiba Moriteru Doshu</title>
+      <link>http://www.aikidoaikido.com.ar/history/ueshiba-moriteru-doshu/</link>
+      <pubDate>Fri, 07 Nov 2014 09:12:35 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/history/ueshiba-moriteru-doshu/</guid>
+      <description>2do hijo de Kisshomaru. Moriteru Ueshiba es, desde Enero de 1986, el Director General del Aikikai Hombu Dojo y en Mayo del mismo año asumió como Presidente de la Fundación Aikikai.
+En el presente, enseña Aikido en el Hombu Dojo, en el Parlamento Japonés, en la Universidad de Tohoku, KDD, NHK y otras empresas, en la Academia de la Fuerza de Defensa Japonesa, como también seminarios en varios países del mundo, incluso en Argentina.</description>
+    </item>
+    
+    <item>
+      <title>Ueshiba Kisshomaru Doshu</title>
+      <link>http://www.aikidoaikido.com.ar/history/ueshiba-kisshomaru-doshu/</link>
+      <pubDate>Fri, 07 Nov 2014 09:05:16 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/history/ueshiba-kisshomaru-doshu/</guid>
+      <description>Nació el 27 de junio de 1921 en Ayabe prefectura de Kioto. Comenzó su practica siendo aún un niño, alrededor de 1936 empezó su entrenamiento, haciendo de uke de su padre cuando iba a hacer demostraciones. También practicó Kendo y también Kashima Shinto-ryu, un estilo muy antiguo. Ya en 1938, en el manual de entrenamiento de Budo publicado por O Sensei Kisshomaru aparecía en muchas fotos de Uke.</description>
+    </item>
+    
+    <item>
+      <title>Ueshiba Morihei</title>
+      <link>http://www.aikidoaikido.com.ar/history/ueshiba-morihei/</link>
+      <pubDate>Thu, 06 Nov 2014 19:39:02 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/history/ueshiba-morihei/</guid>
+      <description>O&amp;rsquo;Sensei  Fue uno de los más importantes artistas marciales de la historia. Aún a la edad de 80 podía desarmar a cualquier enemigo, derrotar a numerosos atacantes y paralizar a un oponente con un solo dedo. Aunque invencible como guerrero, era un hombre de paz que odiaba la violencia. El camino elegido por él fue el Aikido, que puede ser traducido como &amp;ldquo;El Arte de la Paz&amp;rdquo;. Sus discípulos lo llaman O Sensei, &amp;ldquo;El Gran Maestro&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Aikido para Niños</title>
+      <link>http://www.aikidoaikido.com.ar/ninos/</link>
+      <pubDate>Thu, 06 Nov 2014 18:44:40 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/ninos/</guid>
+      <description>La práctica del Aikido desarrolla gran capacidad física, flexibilidad, concentración, equilibrio (tanto físico como mental), y contribuye a que los niños se sientan mejor con su cuerpo dándoles mayor confianza en si mismos y mejor comunicación con los adultos. Las clases están orientadas a brindarles un espacio para explorar y desarrollar todas sus potencialidades tanto física, mental, espiritual y social. Esta forma de práctica desarrolla la sociabilidad en los chicos y fortalece el carácter.</description>
+    </item>
+    
+    <item>
+      <title>Clase Especial en Catamarca</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141025-claseespecialencatamarca/</link>
+      <pubDate>Sat, 25 Oct 2014 10:00:39 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141025-claseespecialencatamarca/</guid>
+      <description> El sábado 25 de Octubre se llevó a cabo en San Fernando del Valle de Catamarca la Clase Especial Dictada por Fukushidoin José Delgado y Fukushidoin Eugenio Fernández. Esta contó con la presencia de las más altas graduaciones de la Asociación.
+Con 41 grados de temperatura, pero con la hospitalidad de siempre, se pasó un exelente tiempo de práctica y con amigos.
+    Cómo llegar:  </description>
+    </item>
+    
+    <item>
+      <title>Entrevista de La 580 Deportiva de Radio Universidad</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141021_nota_radio/</link>
+      <pubDate>Sat, 18 Oct 2014 10:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141021_nota_radio/</guid>
+      <description>Sensei Raúl Medina fue entrevistado por Rubén Di Liddo en el programa La 580 Deportiva de Radio Universidad.
+Se habló de nuestra presencia en el Summer Camp de este año y de las actividades de la Asociación en general.
+ Aquí el artículo en el blog del programa</description>
+    </item>
+    
+    <item>
+      <title>Seminario Nacional Río Cuarto</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141011_seminario/</link>
+      <pubDate>Sat, 11 Oct 2014 10:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141011_seminario/</guid>
+      <description> Hermoso seminario en Río Cuarto, provincia de Córdoba. Sensei Raúl Medina Franck tomó exámenes y los siguientes practicantes consiguieron una nueva graduación:
+1er. kiu  Aguirre Nazareno Matías  2do. kiu  Crespo Horacio Darío  4to. kiu  Hefty Lucas Gustavo  5to. kiu  Britos Maximiliano Mario Sosa Santiago Damian Poffo Leandro Valentín   Como llegar  </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Octubre</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20141004_clase_danes/</link>
+      <pubDate>Sat, 04 Oct 2014 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141004_clase_danes/</guid>
+      <description>La clase de Danes del mes de octubre fue cancelada por las intensas lluvias en la Ciudad de Córdoba.</description>
+    </item>
+    
+    <item>
+      <title>Seminario conmemoración 30 años de Aikido en Córdoba</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140927-seminario/</link>
+      <pubDate>Sat, 27 Sep 2014 16:40:39 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140927-seminario/</guid>
+      <description>Información adicional  Acreditación: 8:30 horas Costo: AR$ 200  El seminario está abierto a practicantes de todas las edades y graduaciones.
+Tendrá curso durante la mañana y continuará a lo largo del día con un corte para almorzar alguna fruta al mediodía donde también se podrá distrutar de una demostración de Taiko (tambores japoneses).
+Terminado el seminario, a la noche habrá una celebración de camaradería en el dojo de la Acociación.</description>
+    </item>
+    
+    <item>
+      <title>Reconocimiento en el Consejo Deliberante por los 30 años de Aikido en Córdoba</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140925-reconocimiento/</link>
+      <pubDate>Thu, 25 Sep 2014 11:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140925-reconocimiento/</guid>
+      <description>El próximo jueves 25 de Septiembre a las 11:00hs se llevará a cabo en el Concejo Deliberante de la Ciudad de Córdoba , una sesión especial donde se reconocerá la labor y el aporte de la Asociación Cordobesa de Aikido por los 30 años de enseñanza y difusión del Aikido en Córdoba.
+Se invita a todos los practicantes y demás amigos a presenciar y acompañar al Sensei Raúl Marcial Medina Franck en este tan importante reconocimiento que otorgan los representantes de todo el abanico político y gubernamental de la Ciuadad de Córdoba.</description>
+    </item>
+    
+    <item>
+      <title>Nómina de Danes</title>
+      <link>http://www.aikidoaikido.com.ar/danes/</link>
+      <pubDate>Sun, 07 Sep 2014 20:00:15 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/danes/</guid>
+      <description>6to. Dan  Raúl Marcial Medina Franck  5to. Dan  Daniel Medina Edgardo Argüello  4to. Dan  Juan José Trakal  3er. Dan  Carmen Cisterna Carlos Angel Hernandez Daniel Zukauskas Guillermo Echeverria Rafaél Santiago Moyano Sergio Rossi  2do. Dan  Ariane Rafael Diego Gustavo Hefty Eduardo Castelli Fabian Eduardo Fernandez Gustavo Saldaña Gustavo Sanin Hernán Bobadilla Hugo Javier Bazan Ignacio Leguizamón Iván Ocaño Jorge Orpianesi Juan Galleguillo Juan Manual Sanchez Luis Tokashiki Marcela del Rosario Tapia Mary Peretti Melina Rey Omar Mazzieri Pablo Arranz Pablo Boetsch Ricardo Tomás Goicochea Sebastián Torres Victor Damian Issacson Walter Oviedo  1er.</description>
+    </item>
+    
+    <item>
+      <title>Accenture Dojo</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/accenture-dojo/</link>
+      <pubDate>Sun, 07 Sep 2014 19:44:13 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/accenture-dojo/</guid>
+      <description> Horarios Martes y Jueves 18:30Hs
+Imagenes   Inaguración de Accenture   </description>
+    </item>
+    
+    <item>
+      <title>Toku-iku Dojo</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/toku-iku-dojo/</link>
+      <pubDate>Sun, 07 Sep 2014 19:41:12 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/toku-iku-dojo/</guid>
+      <description> Horarios Martes y Jueves 20:30Hs
+Cómo llegar  </description>
+    </item>
+    
+    <item>
+      <title>Asociación Catamarqueña de Karate</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/asociacion-catamarquena-de-karate/</link>
+      <pubDate>Sun, 07 Sep 2014 19:37:55 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/asociacion-catamarquena-de-karate/</guid>
+      <description> Horarios     Lunes Martes Miércoles Jueves Viernes     21:30-23:00  AIKIDO  AIKIDO     </description>
+    </item>
+    
+    <item>
+      <title>Marubashi Dojo: Toay</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---toay/</link>
+      <pubDate>Sun, 07 Sep 2014 18:55:08 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---toay/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marubashi Dojo: Gimnasio X-Training</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---gimnasio-x-training/</link>
+      <pubDate>Sun, 07 Sep 2014 18:49:08 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---gimnasio-x-training/</guid>
+      <description>Encargado: Sr. Airton Cuña Borba</description>
+    </item>
+    
+    <item>
+      <title>Marubashi Dojo: Gimnasio Municipal Nº 3</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---gimnasio-municipal-n-3/</link>
+      <pubDate>Sun, 07 Sep 2014 18:48:08 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---gimnasio-municipal-n-3/</guid>
+      <description>Encargado: Sr. Rodolfo Ceballos</description>
+    </item>
+    
+    <item>
+      <title>Marubashi Dojo: Unión Vecinal Valle del Sol</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---union-vecinal-valle-del-sol/</link>
+      <pubDate>Sun, 07 Sep 2014 18:48:08 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/marubashi-dojo---union-vecinal-valle-del-sol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Marushabi Dojo Central</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/marushabi/</link>
+      <pubDate>Sun, 07 Sep 2014 18:36:49 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/marushabi/</guid>
+      <description>Asociación De Aikido. Marubashi. Mendoza. Personería Jurídica - Expediente Nº 470&amp;frasl;07
+Más información en http://www.aikidomarubashimendoza.org.ar
+Email adicional aikidomarubashimendoza@gmail.com</description>
+    </item>
+    
+    <item>
+      <title>Centro de Cultura y Tradiciones Japonesas</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/centro-de-cultura-y-tradiciones-japonesas/</link>
+      <pubDate>Sun, 07 Sep 2014 18:24:12 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/centro-de-cultura-y-tradiciones-japonesas/</guid>
+      <description>Con 400 metros cuadrados, contamos con dos salones de práctica con tatami, cafeteria, gimnasio, salón para el estudio de seguridad física y medios, consultorio médico y enfermeria, vestier, etc; parqueadero a 20 metros.
+Más informacion en http://www.kravmagadecolombia.com
+   </description>
+    </item>
+    
+    <item>
+      <title>Club Tiro y Gimnasia Dojo San Francisco</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/club-tiro-y-gimnasia/</link>
+      <pubDate>Sun, 07 Sep 2014 18:15:03 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/club-tiro-y-gimnasia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ikiru Dojo Río Cuarto</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/ikiru/</link>
+      <pubDate>Sun, 07 Sep 2014 18:13:01 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/ikiru/</guid>
+      <description>Horarios Lunes, Miercoles y Viernes de 21.15 a 22.30 hs.</description>
+    </item>
+    
+    <item>
+      <title>Kokoro Dojo - Unión Cordobesa de Aikido</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/kokoro/</link>
+      <pubDate>Sun, 07 Sep 2014 17:47:45 -0300</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/kokoro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Central de la Asociacion Cordobesa de Aikido</title>
+      <link>http://www.aikidoaikido.com.ar/dojos/horarios/</link>
+      <pubDate>Sun, 07 Sep 2014 18:39:47 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/dojos/horarios/</guid>
+      <description>Horarios AIKIDO     Lunes Martes Miércoles Jueves Viernes     11:00-12:00 hs  AIKIDO  AIKIDO    18:30-19:30 hs AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO   19:45-20:45 hs AIKIDO AIKIDO AIKIDO Clase especial para Danes y 1er Kyu AIKIDO   21:00-22:00 hs AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO    AIKIDO NIÑOS     Lunes Martes Miércoles Jueves Viernes     18:30-19:30 hs  AIKIDO NIÑOS  AIKIDO NIÑOS     Jefe de Instructores Raul Marcial Medina Franck Sensei 6to.</description>
+    </item>
+    
+    <item>
+      <title>Contacto</title>
+      <link>http://www.aikidoaikido.com.ar/contact/</link>
+      <pubDate>Sun, 07 Sep 2014 13:18:04 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/contact/</guid>
+      <description>Correo electrónico: info@aikidoaikido.com.ar
+Boletín informativo: click para suscribirse
+Teléfono: +549 351-650-3560 o +549 351-678-7108
+Buscanos en Facebook: Asociación Cordobesa de Aikido
+Dirección: (horarios)
+Av. Vélez Sarsfield 910
+X5000JJW - Córdoba
+Córdoba
+Argentina
+ </description>
+    </item>
+    
+    <item>
+      <title>Sobre la Asociación</title>
+      <link>http://www.aikidoaikido.com.ar/about/</link>
+      <pubDate>Sun, 07 Sep 2014 13:18:04 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/about/</guid>
+      <description>Ud ha abierto esta página seguramente buscando información de Aikido. Le damos una cordial bienvenida. La página le brindará información de quienes somos, que hacemos y también noticias del Aikido del mundo a través de distintos Links.
+Desde el año 1984 estamos abocados a la práctica y difusión de este maravilloso Arte Marcial de la Paz que es el Aikido. Gracias al esfuerzo y generosidad del Maestro Masafumi Sakanashi que nos inició en la actividad.</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Septiembre</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140906_clase_danes/</link>
+      <pubDate>Sat, 06 Sep 2014 18:18:17 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140906_clase_danes/</guid>
+      <description>Fotos de la clase   </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Junio</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140607_clase_danes/</link>
+      <pubDate>Sat, 07 Jun 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140607_clase_danes/</guid>
+      <description>Medina Franck Sensei dictó una clase muy dinámica recalcando aspectos del protocolo de examen para cinturones negros y/o kyus.</description>
+    </item>
+    
+    <item>
+      <title>Seminario en Catamarca</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140531_seminario_en_catamarca/</link>
+      <pubDate>Sat, 31 May 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140531_seminario_en_catamarca/</guid>
+      <description>Magnífico Seminario dictado por Medina Franck Sensei (6to.Dan) en Catamarca, secundado por Daniel Zukaukas (2do.Dan) y Sergio Rossi (2do.Dan). Al terminar el mismo Sensei tomó exámenes a alumnos de Catamarca.</description>
+    </item>
+    
+    <item>
+      <title>Seminario Internacional de Philip Berrios</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140524_seminario_internacional_philip_berrios/</link>
+      <pubDate>Sat, 24 May 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140524_seminario_internacional_philip_berrios/</guid>
+      <description>Organizado por la Asociación Cordobesa de Aikido y Medina Franck Sensei, tuvimos la muy agradable visita de Philip Berrios Sensei (6to.Dan) de Puerto Rico. Muy didáctico, con técnicas impecables y una desbordante simpatía nos dejó un recuerdo imborrable y deseando que vuelva pronto. El evento contó con la asistencia de más de cien alumnos de Mendoza, Catamarca, Rio Cuarto, Buenos Aires, Kokoro Dojo y Dojo Central.
+Gracias a todos por su asistencia!</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Mayo</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140503_clase_danes_mayo/</link>
+      <pubDate>Sat, 03 May 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140503_clase_danes_mayo/</guid>
+      <description>Medina Franck Sensei dictó una clase muy dinámica y cada grupo se abocó a la preparación de sus próximos exámenes, tanto los candidatos para ascender a cinturón negro como los danes que rendirán para mejorar su categoría.</description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Abril</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140405_clase_danes_abril/</link>
+      <pubDate>Sat, 05 Apr 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140405_clase_danes_abril/</guid>
+      <description>Dictada por Medina Franck Sensei contó con la presencia de alumnos del Dojo Central, de Rio Cuarto, de Kokoro Dojo de Capital y de Kazoku Dojo.</description>
+    </item>
+    
+    <item>
+      <title>Seminario de Sumi-e</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140322_seminario_de_sumi-e/</link>
+      <pubDate>Sat, 22 Mar 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140322_seminario_de_sumi-e/</guid>
+      <description>Exitoso Seminario de Sumi-e dictado en nuestro Dojo Central. Tanto es así que se fijó el el 12 de Abril como próxima fecha.
+    </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Marzo</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140301_clase_danes_marzo/</link>
+      <pubDate>Sat, 01 Mar 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140301_clase_danes_marzo/</guid>
+      <description>Dictada por Medina Franck Sensei contó con la presencia de alumnos del Dojo Central, de Rio Cuarto, de Kokoro Dojo de Capital y de Kazoku Dojo.
+ </description>
+    </item>
+    
+    <item>
+      <title>Clase de Danes de Febrero</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140201_clase_danes_febrero/</link>
+      <pubDate>Fri, 21 Feb 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140201_clase_danes_febrero/</guid>
+      <description>El sábado 1 de febrero Medina Franck Sensei dictó la primera Clase de Danes del año 2014.
+ </description>
+    </item>
+    
+    <item>
+      <title>Seminario y Campamento en Tanti</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2014/20140221_seminario_campamento-tanti/</link>
+      <pubDate>Fri, 21 Feb 2014 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20140221_seminario_campamento-tanti/</guid>
+      <description>El sábado 22 y domingo 23 se realizó en la localidad de Tanti en nuestras sierras de Córdoba el Campamento de Verano dictado por Medina Franck Sensei y los más calificados instructores de nuestra Asociación, pleno de alegría, camaradería y energía para aprender.
+       </description>
+    </item>
+    
+    <item>
+      <title>Actividades del año 2013</title>
+      <link>http://www.aikidoaikido.com.ar/pastevents/2013/20130101_eventos/</link>
+      <pubDate>Tue, 01 Jan 2013 17:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/pastevents/2013/20130101_eventos/</guid>
+      <description>15-12-13 Seminario y exámenes de kius  14-12-13 Conmemoración del cumpleaños de O&amp;rsquo;Sensei 07-12-13 Clase de Danes  16 y 17 de Noviembre: Seminario Internacional dictado por Yamada Sensei (8vo.Dan) en Buenos Aires.    09-11-13 Seminario nacional en Córdoba     02-11-13 Clase de Danes 05-10-13 Clase especial en Buenos Aires Dictada por Omar Mazzieri, nuestro instructor de Mar Del Plata.
+ 05-10-13 Clase de Danes  21-09-2013 Clase Especial en Kazoku Dojo En Bo.</description>
+    </item>
+    
+    <item>
+      <title>Diccionario Técnico</title>
+      <link>http://www.aikidoaikido.com.ar/info/glossary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/info/glossary/</guid>
+      <description>agatsu: victoria sobre sí mismo.
+ai hanmi: posición de UKE y NAGE, mismo pie adelantado.
+ai: armonía.
+aiki taiso: ejercicios individuales de coordinación, físicos y mentales.
+aiki: unir las energías.
+aikido: camino a la armonía con el universo.
+aikidoka: practicante de AIKIDO.
+ainuke: escape mutuo.
+aiuchi: golpe mutuo.
+ashi sabaki: trabajo con los pies.
+atama: cabeza.
+ate: puño o mano que está en posición de golpear.
+atemi: Golpe a un punto vital</description>
+    </item>
+    
+    <item>
+      <title>El Hakama</title>
+      <link>http://www.aikidoaikido.com.ar/info/hakama/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/info/hakama/</guid>
+      <description>El Hakama es una prenda de vestir de origen japonés, parecida a una pollera pantalón plisada. Antiguamente era usada por los jinetes en Japón como una protección de las piernas ante las malezas en el trabajo rural y también fue usada por los samuráis. Es el equivalente a nuestro guardamonte de cuero que usaban y usan nuestros gauchos en sus cabalgaduras cuando tienen que ingresar a un monte cerrado. Los nuestros son de cuero pero en Japón en esa época resultaba difícil conseguir este material por lo que lo hacían de una tela gruesa.</description>
+    </item>
+    
+    <item>
+      <title>Etiqueta en el Dojo</title>
+      <link>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/info/dojo_etiquette/</guid>
+      <description>La observación adecuada de la etiqueta es una parte de su práctica tanto como el aprendizaje de las técnicas.
+En muchos casos, observar la etiqueta requiere dejar a un lado el propio orgullo o confort. Los asuntos de etiqueta no deberían considerarse de importancia sólo en el dojo.
+Los estándares de etiqueta pueden variar de un dojo u organización a otra, pero las siguientes pautas son casi universales. Por favor, tome los asuntos de etiqueta seriamente.</description>
+    </item>
+    
+    <item>
+      <title>Nuestro Logo</title>
+      <link>http://www.aikidoaikido.com.ar/info/logo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/info/logo/</guid>
+      <description>En palabras de O&amp;rsquo;Sensei:
+ El cuerpo debe ser triangular, la mente circular. El Triángulo representa la generación de energía y es la postura física más estable. El Círculo simboliza la serenidad y la perfección, la fuente de ilimitadas técnicas. El Cuadrado significa solidez, la base del control aplicado.
+  Logo de la Asociación Cordobesa de Aikido</description>
+    </item>
+    
+    <item>
+      <title>Origen del Jo</title>
+      <link>http://www.aikidoaikido.com.ar/info/jo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/info/jo/</guid>
+      <description>El Jo originalmente fue concebido como una vara redonda de roble blanco, de 1,28 metros de largo y 2 centímetros de diámetro. La madera debe dejarse secar naturalmente para lograr su peso justo, balance y elasticidad. Es tan versátil que puede usarse como una espada o para golpes directos contra un adversario y como consecuencia de su diseño es manejado suavemente y con gran velocidad.
+La leyenda atribuye el origen del Jo a Muso Gonnosuke quien era experto en el manejo del Bo.</description>
+    </item>
+    
+    <item>
+      <title>Requerimientos de Examen</title>
+      <link>http://www.aikidoaikido.com.ar/info/exams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/info/exams/</guid>
+      <description>Requisitos de exámen Sandan  700 días   Programa a determinar por el examinador en el momento del examen
+ Nidan  600 días Todos los requerimientos hasta Shodan Tachitori - 2 Ukes Kaeshi Waza Estilo libre: 5 Ukes  Shodan  400 días Todos los requerimientos hasta 1°kyu Tachitori Jotori Henka Waza Estilo libre: 4 Ukes  1°kyu  300 días Katatori menuchi - 5 tecnicas Yokomenuchi - 5 tecnicas Morotetori - 5 tecnicas Shomenuchi - 5 tecnicas Ryotetori - 5 tecnicas Koshinage - 5 tecnicas Hanmi handachi Ushiro Waza - 5 tecnicas Tantotori Estilo libre: 3 Ukes  2°kyu  200 días Shomenuchi Shihonage Shomenuchi Kaitennage Yokomenuchi Gokyo Ushiro Tekubitori Shihonage Ushiro Tekubitori Jujinage Ushiro Kubishime Koshinage Morotetori Nikkyo Hanmi handanchi Shomenuchi Iriminage Hanmi handanchi Katatetori Nikkyo Hanmi handanchi Yokomenuchi Kotegaeshi Ataque libre: 2 Ukes  3°kyu  100 días Yokomenuchi Iriminage (2 formas) Yokomenuchi Kotegaeshi Tsuki Kaitennage (uchi &amp;amp; soto) Ushiro Ryokatatori Sankyo Morotetori Iriminage (2 formas) Shomenuchi Sankyo Suwari waza Shomenuchi Iriminage Suwari waza Shomenuchi Nikkyo Hanmi handachi Katatetori Shihonage Hanmi handachi Katatetori Kaitennage  4°kyu  80 días Shomenuchi Nikkyo Yokomenuchi Shihonage Tsuki Iriminage Ushiro Tekubitori Sankyo Ushiro Ryokatatori Kotegaeshi Suwari waza Shomenuchi Ikkyo Suwari waza Katatori Nikkyo Suwari waza Katatori Sankyo  5°kyu  60 días Shomenuchi Ikkyo Shomenuchi Iriminage Katatetori Shihonage Ryotetori Tenchinage Tsuki Kotegaeshi Ushiro Tekubitori Kotegaeshi Morotetori Kokyuho  Recomendaciones generales para los postulantes  Deben realizar el tramite administrativo tres días antes del examen.</description>
     </item>
     
   </channel>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Asociación Cordobesa de Aikido</title>
+    <link>http://www.aikidoaikido.com.ar/tags/</link>
+    <description>Recent content in Tags on Asociación Cordobesa de Aikido</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ar</language>
+    <lastBuildDate>Thu, 25 Sep 2014 11:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://www.aikidoaikido.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Acto</title>
+      <link>http://www.aikidoaikido.com.ar/tags/acto/</link>
+      <pubDate>Thu, 25 Sep 2014 11:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/tags/acto/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Clase</title>
+      <link>http://www.aikidoaikido.com.ar/tags/clase/</link>
+      <pubDate>Sat, 25 Oct 2014 10:00:39 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/tags/clase/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nota</title>
+      <link>http://www.aikidoaikido.com.ar/tags/nota/</link>
+      <pubDate>Sat, 18 Oct 2014 10:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/tags/nota/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Seminario</title>
+      <link>http://www.aikidoaikido.com.ar/tags/seminario/</link>
+      <pubDate>Sat, 13 Jun 2015 16:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/tags/seminario/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
