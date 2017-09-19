@@ -3,7 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/seminario-yamada-septiembre-2017/</loc>
+    <loc>http://www.aikidoaikido.com.ar/news/seminario-yamada-sensei-septiembre/</loc>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/pastevents/2017/seminario-yamada-septiembre-2017/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
   </url>
   
@@ -428,20 +433,20 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/tags/acto/</loc>
-    <lastmod>2014-09-25T11:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.aikidoaikido.com.ar/categories/acto/</loc>
     <lastmod>2014-09-25T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>http://www.aikidoaikido.com.ar/tags/acto/</loc>
+    <lastmod>2014-09-25T11:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>http://www.aikidoaikido.com.ar/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -482,12 +487,6 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/events/</loc>
-    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>http://www.aikidoaikido.com.ar/history/</loc>
     <lastmod>2014-11-07T09:20:15-03:00</lastmod>
     <priority>0</priority>
@@ -500,7 +499,7 @@
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/news/</loc>
-    <lastmod>2017-08-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -520,7 +519,7 @@
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/pastevents/</loc>
-    <lastmod>2017-08-26T00:00:00+00:00</lastmod>
+    <lastmod>2017-09-16T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -529,14 +528,14 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/tags/seminario/</loc>
-    <lastmod>2017-04-29T16:00:00-03:00</lastmod>
+    <loc>http://www.aikidoaikido.com.ar/categories/seminario/</loc>
+    <lastmod>2015-06-13T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/categories/seminario/</loc>
-    <lastmod>2015-06-13T16:00:00+00:00</lastmod>
+    <loc>http://www.aikidoaikido.com.ar/tags/seminario/</loc>
+    <lastmod>2017-04-29T16:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
