@@ -433,13 +433,13 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/categories/acto/</loc>
+    <loc>http://www.aikidoaikido.com.ar/tags/acto/</loc>
     <lastmod>2014-09-25T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/tags/acto/</loc>
+    <loc>http://www.aikidoaikido.com.ar/categories/acto/</loc>
     <lastmod>2014-09-25T11:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -528,14 +528,14 @@
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/categories/seminario/</loc>
-    <lastmod>2015-06-13T16:00:00+00:00</lastmod>
+    <loc>http://www.aikidoaikido.com.ar/tags/seminario/</loc>
+    <lastmod>2017-04-29T16:00:00-03:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.aikidoaikido.com.ar/tags/seminario/</loc>
-    <lastmod>2017-04-29T16:00:00-03:00</lastmod>
+    <loc>http://www.aikidoaikido.com.ar/categories/seminario/</loc>
+    <lastmod>2015-06-13T16:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
