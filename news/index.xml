@@ -6,10 +6,19 @@
     <description>Recent content in News on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 15 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Oct 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.aikidoaikido.com.ar/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seminario de Edgardo Argüello</title>
+      <link>http://www.aikidoaikido.com.ar/news/seminario-edgardo-arguello/</link>
+      <pubDate>Fri, 05 Oct 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/seminario-edgardo-arguello/</guid>
+      <description>Anunciamos que este sábado 20 de Octubre, el Sensei Edgardo Argüello dará un seminario en Kokoro Dojo.</description>
+    </item>
     
     <item>
       <title>Taller de Defensa Personal para Mujeres</title>
