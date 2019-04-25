@@ -6,28 +6,10 @@
     <description>Recent content in Categories on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 25 Sep 2014 11:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2015 16:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.aikidoaikido.com.ar/categories/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Acto</title>
-      <link>http://www.aikidoaikido.com.ar/categories/acto/</link>
-      <pubDate>Thu, 25 Sep 2014 11:00:00 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/categories/acto/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Clase Especial</title>
-      <link>http://www.aikidoaikido.com.ar/categories/clase-especial/</link>
-      <pubDate>Sat, 25 Oct 2014 10:00:39 +0000</pubDate>
-      
-      <guid>http://www.aikidoaikido.com.ar/categories/clase-especial/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Seminario</title>
@@ -39,11 +21,29 @@
     </item>
     
     <item>
+      <title>Clase especial</title>
+      <link>http://www.aikidoaikido.com.ar/categories/clase-especial/</link>
+      <pubDate>Sat, 25 Oct 2014 10:00:39 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/categories/clase-especial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Semirario</title>
       <link>http://www.aikidoaikido.com.ar/categories/semirario/</link>
       <pubDate>Sat, 27 Sep 2014 16:40:39 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/categories/semirario/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Acto</title>
+      <link>http://www.aikidoaikido.com.ar/categories/acto/</link>
+      <pubDate>Thu, 25 Sep 2014 11:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/categories/acto/</guid>
       <description></description>
     </item>
     
