@@ -4,14 +4,17 @@
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/news/</loc>
-    <lastmod>2019-05-03T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/news/seminario-agosto-2019/</loc>
+    <lastmod>2019-08-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -97,7 +100,6 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/pastevents/</loc>
     <lastmod>2017-09-16T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -123,7 +125,6 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/tags/seminario/</loc>
     <lastmod>2017-04-29T16:00:00-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -134,13 +135,11 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/tags/</loc>
     <lastmod>2017-04-29T16:00:00-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/dojos/</loc>
     <lastmod>2017-04-13T16:38:26-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -271,13 +270,11 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/categories/</loc>
     <lastmod>2015-06-13T16:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/categories/seminario/</loc>
     <lastmod>2015-06-13T16:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -368,7 +365,6 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/history/</loc>
     <lastmod>2014-11-07T09:20:15-03:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -404,18 +400,16 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/tags/clase/</loc>
     <lastmod>2014-10-25T10:00:39+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141025-claseespecialencatamarca/</loc>
-    <lastmod>2014-10-25T10:00:39+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/categories/clase-especial/</loc>
     <lastmod>2014-10-25T10:00:39+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.aikidoaikido.com.ar/pastevents/2014/20141025-claseespecialencatamarca/</loc>
+    <lastmod>2014-10-25T10:00:39+00:00</lastmod>
   </url>
   
   <url>
@@ -426,7 +420,6 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/tags/nota/</loc>
     <lastmod>2014-10-18T10:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -447,19 +440,16 @@
   <url>
     <loc>http://www.aikidoaikido.com.ar/categories/semirario/</loc>
     <lastmod>2014-09-27T16:40:39+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/categories/acto/</loc>
     <lastmod>2014-09-25T11:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/tags/acto/</loc>
     <lastmod>2014-09-25T11:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -606,7 +596,6 @@
   
   <url>
     <loc>http://www.aikidoaikido.com.ar/info/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

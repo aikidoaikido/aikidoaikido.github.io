@@ -6,10 +6,19 @@
     <description>Recent content in News on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Fri, 03 May 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://www.aikidoaikido.com.ar/news/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Seminario y Exámenes de Dan</title>
+      <link>http://www.aikidoaikido.com.ar/news/seminario-agosto-2019/</link>
+      <pubDate>Thu, 15 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://www.aikidoaikido.com.ar/news/seminario-agosto-2019/</guid>
+      <description>El sábado 24 de Agosto, a las 14 horas, en Córdoba Capital, se llevará a cabo un nuevo seminario y examen Dan.</description>
+    </item>
     
     <item>
       <title>Resumen del Seminario y Exámenes de kyu de Abril de 2019</title>
