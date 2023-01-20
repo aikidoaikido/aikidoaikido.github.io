@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Asociación Cordobesa de Aikido</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Tags on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 29 Apr 2017 16:00:00 -0300</lastBuildDate>
-    
-	<atom:link href="http://www.aikidoaikido.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 29 Apr 2017 16:00:00 -0300</lastBuildDate><atom:link href="http://www.aikidoaikido.com.ar/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seminario</title>
       <link>http://www.aikidoaikido.com.ar/tags/seminario/</link>

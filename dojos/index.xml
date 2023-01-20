@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dojos on Asociación Cordobesa de Aikido</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Dojos on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Thu, 13 Apr 2017 16:38:26 -0300</lastBuildDate>
-    
-	<atom:link href="http://www.aikidoaikido.com.ar/dojos/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Thu, 13 Apr 2017 16:38:26 -0300</lastBuildDate><atom:link href="http://www.aikidoaikido.com.ar/dojos/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Numa Doro</title>
       <link>http://www.aikidoaikido.com.ar/dojos/numa_doro/</link>
@@ -26,7 +22,7 @@
       <pubDate>Mon, 26 Oct 2015 21:51:45 -0300</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/dojos/kudo/</guid>
-      <description> Horarios     Lunes Martes Miércoles Jueves Viernes Sábados     19:30-20:30 AIKIDO  AIKIDO  AIKIDO    19:30-20:30 NIÑOS  NIÑOS  NIÑOS    20:30-21:30 AIKIDO  AIKIDO  AIKIDO    21:30-23:00 AIKIDO  AIKIDO  AIKIDO    14:30-16:00      AIKIDO    </description>
+      <description>Horarios Lunes Martes Miércoles Jueves Viernes Sábados 19:30-20:30 AIKIDO AIKIDO AIKIDO 19:30-20:30 NIÑOS NIÑOS NIÑOS 20:30-21:30 AIKIDO AIKIDO AIKIDO 21:30-23:00 AIKIDO AIKIDO AIKIDO 14:30-16:00 AIKIDO </description>
     </item>
     
     <item>
@@ -53,7 +49,7 @@
       <pubDate>Sun, 07 Sep 2014 19:37:55 -0300</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/dojos/asociacion-catamarquena-de-karate/</guid>
-      <description> Horarios     Lunes Martes Miércoles Jueves Viernes     21:30-23:00  AIKIDO  AIKIDO     </description>
+      <description>Horarios Lunes Martes Miércoles Jueves Viernes 21:30-23:00 AIKIDO AIKIDO </description>
     </item>
     
     <item>
@@ -98,7 +94,7 @@
       <pubDate>Sun, 07 Sep 2014 18:36:49 -0300</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/dojos/marushabi/</guid>
-      <description>Asociación De Aikido. Marubashi. Mendoza. Personería Jurídica - Expediente Nº 470&amp;frasl;07
+      <description>Asociación De Aikido. Marubashi. Mendoza. Personería Jurídica - Expediente Nº 470/07
 Más información en http://www.aikidomarubashimendoza.org.ar
 Email adicional aikidomarubashimendoza@gmail.com</description>
     </item>
@@ -136,7 +132,7 @@ Email adicional aikidomarubashimendoza@gmail.com</description>
       <pubDate>Sun, 07 Sep 2014 18:39:47 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/dojos/horarios/</guid>
-      <description>Horarios AIKIDO     Lunes Martes Miércoles Jueves Viernes     11:00-12:00 hs  AIKIDO  AIKIDO    18:30-19:30 hs AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO   19:45-20:45 hs AIKIDO AIKIDO AIKIDO Clase especial para Danes y 1er Kyu AIKIDO   21:00-22:00 hs AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO    AIKIDO NIÑOS     Lunes Martes Miércoles Jueves Viernes     18:30-19:30 hs  AIKIDO NIÑOS  AIKIDO NIÑOS     Jefe de Instructores Raul Marcial Medina Franck Sensei 6to.</description>
+      <description>Horarios AIKIDO Lunes Martes Miércoles Jueves Viernes 11:00-12:00 hs AIKIDO AIKIDO 18:30-19:30 hs AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO 19:45-20:45 hs AIKIDO AIKIDO AIKIDO Clase especial para Danes y 1er Kyu AIKIDO 21:00-22:00 hs AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO AIKIDO NIÑOS Lunes Martes Miércoles Jueves Viernes 18:30-19:30 hs AIKIDO NIÑOS AIKIDO NIÑOS Jefe de Instructores Raul Marcial Medina Franck Sensei 6to.Dan de Aikido, 6to.Dan de Judo y 5to.Dan de JiuJitsu Koryu</description>
     </item>
     
   </channel>

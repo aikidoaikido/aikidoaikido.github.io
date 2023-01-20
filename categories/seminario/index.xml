@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Seminario on Asociación Cordobesa de Aikido</title>
@@ -6,19 +6,15 @@
     <description>Recent content in Seminario on Asociación Cordobesa de Aikido</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ar</language>
-    <lastBuildDate>Sat, 13 Jun 2015 16:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="http://www.aikidoaikido.com.ar/categories/seminario/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 13 Jun 2015 16:00:00 +0000</lastBuildDate><atom:link href="http://www.aikidoaikido.com.ar/categories/seminario/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Seminario y examen de kyus</title>
       <link>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</link>
       <pubDate>Sat, 13 Jun 2015 16:00:00 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150613-seminario_examen_kyus/</guid>
-      <description> Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus. Tendrá un costo de 80 pesos para practicantes en general y de 50 para practicantes que rinden.
-  Como llegar  </description>
+      <description>Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus. Tendrá un costo de 80 pesos para practicantes en general y de 50 para practicantes que rinden.
+Como llegar </description>
     </item>
     
     <item>
@@ -27,8 +23,8 @@
       <pubDate>Sat, 28 Mar 2015 16:00:00 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/pastevents/2015/20150328-seminario_examen_kyus/</guid>
-      <description> Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.
-Como llegar  </description>
+      <description>Será dictado por Medina Franck Sensei y luego se tomarán los exámenes de kyus.
+Como llegar </description>
     </item>
     
     <item>
@@ -37,9 +33,8 @@ Como llegar  </description>
       <pubDate>Sat, 29 Nov 2014 16:40:39 +0000</pubDate>
       
       <guid>http://www.aikidoaikido.com.ar/pastevents/2014/20141129-seminario-examen-kyus/</guid>
-      <description>   Fue dictado por Medina Franck Sensei y luego se tomaron los exámenes de kyus ante una mesa integrada también por Juan Trakal y Jose Delgado.
- 
-  Como llegar  </description>
+      <description> Fue dictado por Medina Franck Sensei y luego se tomaron los exámenes de kyus ante una mesa integrada también por Juan Trakal y Jose Delgado.
+Como llegar </description>
     </item>
     
   </channel>
